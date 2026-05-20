@@ -89,7 +89,7 @@ Users must comply with the corresponding licensing conditions when reusing eithe
 * Total number of entities: 190,628
 * Total number of statements: 3,707,656
 * Total number of provenance references: 4,033,845
-* Number of integrated data sources: 13
+* Number of integrated data sources: 10
 
 ### Version History
 
