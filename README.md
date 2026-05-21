@@ -6,7 +6,8 @@
 
 This repository contains all supplementary materials — including datasets, source code, and validation artefacts — associated with the paper:
 
-**A Cross-Source Semantic Dataset for Maritime Fleet Data Integration in the European Blue Economy**
+**A dataset of the European fishing fleet and maritime
+infrastructure**
 
 Submitted to [Scientific Data](https://www.nature.com/sdata/)
 
