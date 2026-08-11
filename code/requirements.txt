@@ -1,0 +1,7 @@
+numpy==2.0.2
+pandas==2.3.3
+python-dotenv==1.2.1
+Requests==2.32.5
+wikidataintegrator==0.9.30
+openpyxl==3.1.5
+ipykernel==6.31.0

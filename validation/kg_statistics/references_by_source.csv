@@ -1,0 +1,13 @@
+﻿source;numberOfStatements;status;error
+https://webgate.ec.europa.eu/fleet-europa;3448294;OK;
+https://servicio.pesca.mapama.es/CENSO/ConsultaBuqueRegistro/Buques/Search;570603;OK;
+https://www.data.gouv.fr/datasets/liste-des-ports-du-systeme-ers-avec-donnees-de-position;6313;OK;
+https://www.mapa.gob.es/es/pesca/temas/registro-flota/informacion-sobre-flota-pesquera;5158;OK;
+https://www.boe.es/eli/es/rd/2007/05/18/638/con;1151;OK;
+https://msi.nga.mil/Publications/WPI;999;OK;
+https://www.fao.org/fishery/en/area;569;OK;
+https://data.apps.fao.org/catalog/dataset/cwp-isscfg;321;OK;
+https://openknowledge.fao.org/handle/20.500.14283/cb5201en;244;OK;
+https://signa.ign.es/signa/;193;OK;
+
+TOTAL;4033845;;

@@ -37,19 +37,169 @@ The generated schema JSON contains, for each class:
 - statement cardinalities,
 - qualifier statistics.
 """
+
 from __future__ import annotations
 
 import json
 from collections import defaultdict
 from pathlib import Path
+from typing import Optional
 
-# =========================
-# CONFIG
-# =========================
+import tarfile
+import zipfile
 
-BATCHES_DIR  = Path(r"C:\Users\profesor\Desktop\Data migration\exported_items_json")
-OUTPUT_FILE  = Path(r"C:\Users\profesor\Desktop\Data migration\inferred_schema.json")
-CLASS_PROP   = "P35"   # Instance of
+
+# =============================================================================
+# REPOSITORY LOCATION
+# =============================================================================
+
+def find_repository_root(start: Optional[Path] = None) -> Path:
+    """
+    Locate the EFFKG repository root.
+
+    The root is identified through the principal directories distributed with
+    the project. This implementation is compatible with Python 3.9.
+    """
+    current = (start or Path.cwd()).resolve()
+
+    required_directories = {
+        "code",
+        "dataset",
+        "schema",
+        "source_data",
+        "data_model",
+        "validation",
+    }
+
+    for candidate in [current] + list(current.parents):
+        try:
+            existing_directories = {
+                path.name
+                for path in candidate.iterdir()
+                if path.is_dir()
+            }
+        except (PermissionError, OSError):
+            continue
+
+        if required_directories.issubset(existing_directories):
+            return candidate
+
+    raise RuntimeError(
+        "The EFFKG repository root could not be located. "
+        "Run this script from within a cloned EFFKG repository."
+    )
+
+
+REPOSITORY_ROOT = find_repository_root()
+
+
+# =============================================================================
+# CONFIGURATION
+# =============================================================================
+
+DATASET_DIRECTORY = REPOSITORY_ROOT / "dataset"
+VALIDATION_DIRECTORY = REPOSITORY_ROOT / "validation"
+
+BATCHES_DIRECTORY = (
+    DATASET_DIRECTORY
+    / "exported_items_json"
+)
+
+ZIP_ARCHIVE = (
+    DATASET_DIRECTORY
+    / "batches_json.zip"
+)
+
+TAR_ARCHIVE = (
+    DATASET_DIRECTORY
+    / "batches_json.tar.gz"
+)
+
+def ensure_batches_directory() -> Path:
+    """
+    Ensure that the exported Wikibase JSON batches are available.
+
+    If the extracted directory does not exist, it is created automatically
+    from the distributed ZIP or TAR.GZ archive.
+    """
+
+    if BATCHES_DIRECTORY.is_dir():
+        return BATCHES_DIRECTORY
+
+    if ZIP_ARCHIVE.is_file():
+        print("[INFO] Extracting {}".format(ZIP_ARCHIVE.name))
+
+        with zipfile.ZipFile(ZIP_ARCHIVE) as archive:
+            archive.extractall(BATCHES_DIRECTORY)
+
+        return BATCHES_DIRECTORY
+
+    if TAR_ARCHIVE.is_file():
+        print("[INFO] Extracting {}".format(TAR_ARCHIVE.name))
+
+        with tarfile.open(TAR_ARCHIVE, "r:gz") as archive:
+            archive.extractall(BATCHES_DIRECTORY)
+
+        return BATCHES_DIRECTORY
+
+    raise FileNotFoundError(
+        "Neither an extracted batch directory nor a distributed archive "
+        "could be found."
+    )
+
+# Directory containing Wikibase JSON exports named batch_*.json.
+BATCHES_DIR = ensure_batches_directory()
+
+# Directory containing the inferred statistical schema.
+OUTPUT_DIRECTORY = (
+    VALIDATION_DIRECTORY
+    / "inferred_schema"
+)
+
+OUTPUT_FILE = (
+    OUTPUT_DIRECTORY
+    / "inferred_schema.json"
+)
+
+# Wikibase property used to assign entities to classes.
+CLASS_PROP = "P35"
+
+
+# =============================================================================
+# CONFIGURATION VALIDATION
+# =============================================================================
+
+if not BATCHES_DIR.is_dir():
+    raise FileNotFoundError(
+        "The Wikibase JSON batch directory was not found:\n"
+        "  {}\n\n"
+        "Place the exported batch files in "
+        "dataset/exported_items_json/ or update BATCHES_DIR."
+        .format(BATCHES_DIR)
+    )
+
+BATCH_FILES = sorted(
+    BATCHES_DIR.glob("batch_*.json")
+)
+
+if not BATCH_FILES:
+    raise FileNotFoundError(
+        "No Wikibase batch files matching 'batch_*.json' were found in:\n"
+        "  {}".format(BATCHES_DIR)
+    )
+
+OUTPUT_DIRECTORY.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+
+print("EFFKG empirical schema inference")
+print("--------------------------------")
+print("Repository root: {}".format(REPOSITORY_ROOT))
+print("Input batches: {}".format(BATCHES_DIR))
+print("Batch files found: {:,}".format(len(BATCH_FILES)))
+print("Output file: {}".format(OUTPUT_FILE))
 
 PROPERTY_LABELS = {
     "P1":  "defined by",

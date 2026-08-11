@@ -3,6 +3,7 @@ PREFIX wdt: <http://effkg.wikibase.cloud/prop/direct/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <Category> {
+    wdt:P35  [wd:Q473];
     wdt:P18 @<Category> ?; # Has parent category
     wdt:P26 xsd:string +; # Code (may be qualified by P47 and P48)
     wdt:P52 @<Category> ?; # Subclass of
@@ -10,12 +11,19 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 }
 
 <FishingGearCategory> EXTENDS @<Category> {
+    wdt:P35  [wd:Q472];
     wdt:P53 xsd:string ?; # Abbreviation	
 }
 
 <VesselCategory> EXTENDS @<Category> {
-	wdt:P53 xsd:string ?; # Abbreviation	
+    wdt:P35  [wd:Q471];
+    wdt:P53 xsd:string ?; # Abbreviation	
 }
-<FishingVesselCategory> EXTENDS @<VesselCategory> {}
 
-<VesselSupportingFishingRelatedActivitiesCategory> EXTENDS @<VesselCategory> {}
+<FishingVesselCategory> EXTENDS @<VesselCategory> {
+    wdt:P35  [wd:Q399];
+}
+
+<VesselSupportingFishingRelatedActivitiesCategory> EXTENDS @<VesselCategory> {
+    wdt:P35  [wd:Q448];
+}

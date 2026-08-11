@@ -1,0 +1,5159 @@
+﻿PUERTO BASE;AÑO;NUM_BARCOS
+Adra;2006;45
+Adra;2007;48
+Adra;2008;53
+Adra;2009;51
+Adra;2010;47
+Adra;2011;46
+Adra;2012;47
+Adra;2013;42
+Adra;2014;37
+Adra;2015;36
+Adra;2016;32
+Adra;2017;31
+Adra;2018;29
+Adra;2019;31
+Adra;2020;28
+Adra;2021;30
+Adra;2022;32
+Adra;2023;31
+Adra;2024;32
+Adra;2025;37
+Agaete;2006;33
+Agaete;2007;35
+Agaete;2008;29
+Agaete;2009;28
+Agaete;2010;27
+Agaete;2011;26
+Agaete;2012;19
+Agaete;2013;19
+Agaete;2014;18
+Agaete;2015;19
+Agaete;2016;19
+Agaete;2017;17
+Agaete;2018;17
+Agaete;2019;16
+Agaete;2020;18
+Agaete;2021;16
+Agaete;2022;16
+Agaete;2023;16
+Agaete;2024;18
+Agaete;2025;15
+Alcalá;2006;8
+Alcalá;2007;8
+Alcalá;2008;8
+Alcalá;2009;8
+Alcalá;2010;6
+Alcalá;2011;5
+Alcalá;2012;2
+Alcalá;2013;2
+Alcalá;2014;2
+Alcalá;2015;2
+Alcalá;2016;2
+Alcalá;2017;1
+Alcalá;2018;1
+Alcalá;2019;1
+Alcalá;2020;1
+Alcalá;2021;1
+Alcalá;2022;1
+Alcalá;2023;1
+Alcalá;2024;1
+Alcudia;2006;33
+Alcudia;2007;32
+Alcudia;2008;35
+Alcudia;2009;36
+Alcudia;2010;37
+Alcudia;2011;39
+Alcudia;2012;40
+Alcudia;2013;41
+Alcudia;2014;40
+Alcudia;2015;40
+Alcudia;2016;38
+Alcudia;2017;39
+Alcudia;2018;40
+Alcudia;2019;39
+Alcudia;2020;38
+Alcudia;2021;37
+Alcudia;2022;34
+Alcudia;2023;33
+Alcudia;2024;33
+Alcudia;2025;32
+Aldan-Hio;2006;48
+Aldan-Hio;2007;49
+Aldan-Hio;2008;42
+Aldan-Hio;2009;41
+Aldan-Hio;2010;38
+Aldan-Hio;2011;38
+Aldan-Hio;2012;33
+Aldan-Hio;2013;34
+Aldan-Hio;2014;33
+Aldan-Hio;2015;28
+Aldan-Hio;2016;26
+Aldan-Hio;2017;26
+Aldan-Hio;2018;24
+Aldan-Hio;2019;24
+Aldan-Hio;2020;24
+Aldan-Hio;2021;23
+Aldan-Hio;2022;21
+Aldan-Hio;2023;20
+Aldan-Hio;2024;20
+Aldan-Hio;2025;21
+Algeciras;2006;90
+Algeciras;2007;81
+Algeciras;2008;70
+Algeciras;2009;56
+Algeciras;2010;52
+Algeciras;2011;49
+Algeciras;2012;42
+Algeciras;2013;40
+Algeciras;2014;41
+Algeciras;2015;38
+Algeciras;2016;36
+Algeciras;2017;36
+Algeciras;2018;35
+Algeciras;2019;36
+Algeciras;2020;37
+Algeciras;2021;36
+Algeciras;2022;36
+Algeciras;2023;34
+Algeciras;2024;26
+Algeciras;2025;24
+Alicante;2006;16
+Alicante;2007;14
+Alicante;2008;11
+Alicante;2009;9
+Alicante;2010;7
+Alicante;2011;6
+Alicante;2012;6
+Alicante;2013;6
+Alicante;2014;4
+Alicante;2015;4
+Alicante;2016;6
+Alicante;2017;6
+Alicante;2018;6
+Alicante;2019;7
+Alicante;2020;5
+Alicante;2021;5
+Alicante;2022;5
+Alicante;2023;4
+Alicante;2024;3
+Alicante;2025;3
+Almería;2006;111
+Almería;2007;107
+Almería;2008;105
+Almería;2009;98
+Almería;2010;91
+Almería;2011;84
+Almería;2012;82
+Almería;2013;85
+Almería;2014;84
+Almería;2015;83
+Almería;2016;88
+Almería;2017;86
+Almería;2018;87
+Almería;2019;87
+Almería;2020;89
+Almería;2021;88
+Almería;2022;89
+Almería;2023;84
+Almería;2024;88
+Almería;2025;89
+Almuñecar;2006;1
+Almuñecar;2007;1
+Almuñecar;2008;1
+Almuñecar;2009;1
+Almuñecar;2010;1
+Almuñecar;2011;1
+Almuñecar;2012;1
+Almuñecar;2013;1
+Almuñecar;2014;1
+Altea;2006;26
+Altea;2007;24
+Altea;2008;21
+Altea;2009;18
+Altea;2010;18
+Altea;2011;19
+Altea;2012;18
+Altea;2013;19
+Altea;2014;20
+Altea;2015;20
+Altea;2016;20
+Altea;2017;18
+Altea;2018;19
+Altea;2019;18
+Altea;2020;17
+Altea;2021;17
+Altea;2022;17
+Altea;2023;18
+Altea;2024;16
+Altea;2025;16
+Ampolla;2006;30
+Ampolla;2007;31
+Ampolla;2008;23
+Ampolla;2009;22
+Ampolla;2010;22
+Ampolla;2011;19
+Ampolla;2012;21
+Ampolla;2013;20
+Ampolla;2014;17
+Ampolla;2015;15
+Ampolla;2016;15
+Ampolla;2017;15
+Ampolla;2018;11
+Ampolla;2019;13
+Ampolla;2020;13
+Ampolla;2021;13
+Ampolla;2022;14
+Ampolla;2023;14
+Ampolla;2024;14
+Ampolla;2025;12
+Andraitx;2006;20
+Andraitx;2007;20
+Andraitx;2008;17
+Andraitx;2009;17
+Andraitx;2010;17
+Andraitx;2011;16
+Andraitx;2012;17
+Andraitx;2013;17
+Andraitx;2014;14
+Andraitx;2015;14
+Andraitx;2016;14
+Andraitx;2017;14
+Andraitx;2018;14
+Andraitx;2019;13
+Andraitx;2020;13
+Andraitx;2021;13
+Andraitx;2022;13
+Andraitx;2023;12
+Andraitx;2024;13
+Andraitx;2025;14
+Arcade;2006;87
+Arcade;2007;84
+Arcade;2008;52
+Arcade;2009;56
+Arcade;2010;57
+Arcade;2011;55
+Arcade;2012;56
+Arcade;2013;57
+Arcade;2014;57
+Arcade;2015;62
+Arcade;2016;61
+Arcade;2017;60
+Arcade;2018;60
+Arcade;2019;59
+Arcade;2020;62
+Arcade;2021;62
+Arcade;2022;64
+Arcade;2023;62
+Arcade;2024;61
+Arcade;2025;60
+Arenys de Mar;2006;71
+Arenys de Mar;2007;71
+Arenys de Mar;2008;65
+Arenys de Mar;2009;61
+Arenys de Mar;2010;60
+Arenys de Mar;2011;62
+Arenys de Mar;2012;60
+Arenys de Mar;2013;58
+Arenys de Mar;2014;58
+Arenys de Mar;2015;58
+Arenys de Mar;2016;56
+Arenys de Mar;2017;54
+Arenys de Mar;2018;51
+Arenys de Mar;2019;50
+Arenys de Mar;2020;66
+Arenys de Mar;2021;62
+Arenys de Mar;2022;58
+Arenys de Mar;2023;56
+Arenys de Mar;2024;49
+Arenys de Mar;2025;47
+Ares;2006;14
+Ares;2007;11
+Ares;2008;9
+Ares;2009;9
+Ares;2010;9
+Ares;2011;9
+Ares;2012;10
+Ares;2013;9
+Ares;2014;11
+Ares;2015;10
+Ares;2016;10
+Ares;2017;10
+Ares;2018;10
+Ares;2019;9
+Ares;2020;9
+Ares;2021;9
+Ares;2022;9
+Ares;2023;8
+Ares;2024;8
+Ares;2025;7
+Arguineguín;2006;72
+Arguineguín;2007;71
+Arguineguín;2008;65
+Arguineguín;2009;60
+Arguineguín;2010;57
+Arguineguín;2011;56
+Arguineguín;2012;51
+Arguineguín;2013;51
+Arguineguín;2014;49
+Arguineguín;2015;48
+Arguineguín;2016;47
+Arguineguín;2017;45
+Arguineguín;2018;48
+Arguineguín;2019;46
+Arguineguín;2020;47
+Arguineguín;2021;47
+Arguineguín;2022;46
+Arguineguín;2023;45
+Arguineguín;2024;45
+Arguineguín;2025;43
+Armintza;2006;7
+Armintza;2007;7
+Armintza;2008;7
+Armintza;2009;7
+Armintza;2010;7
+Armintza;2011;7
+Armintza;2012;7
+Armintza;2013;7
+Armintza;2014;7
+Armintza;2015;6
+Armintza;2016;5
+Armintza;2017;5
+Armintza;2018;5
+Armintza;2019;4
+Armintza;2020;5
+Armintza;2021;5
+Armintza;2022;5
+Armintza;2023;5
+Armintza;2024;6
+Armintza;2025;5
+Arrecife de Lanzarote;2006;110
+Arrecife de Lanzarote;2007;93
+Arrecife de Lanzarote;2008;51
+Arrecife de Lanzarote;2009;43
+Arrecife de Lanzarote;2010;42
+Arrecife de Lanzarote;2011;41
+Arrecife de Lanzarote;2012;36
+Arrecife de Lanzarote;2013;35
+Arrecife de Lanzarote;2014;33
+Arrecife de Lanzarote;2015;33
+Arrecife de Lanzarote;2016;34
+Arrecife de Lanzarote;2017;35
+Arrecife de Lanzarote;2018;36
+Arrecife de Lanzarote;2019;36
+Arrecife de Lanzarote;2020;37
+Arrecife de Lanzarote;2021;40
+Arrecife de Lanzarote;2022;42
+Arrecife de Lanzarote;2023;41
+Arrecife de Lanzarote;2024;39
+Arrecife de Lanzarote;2025;38
+Aviles;2006;52
+Aviles;2007;46
+Aviles;2008;48
+Aviles;2009;46
+Aviles;2010;42
+Aviles;2011;41
+Aviles;2012;39
+Aviles;2013;37
+Aviles;2014;34
+Aviles;2015;29
+Aviles;2016;26
+Aviles;2017;25
+Aviles;2018;24
+Aviles;2019;18
+Aviles;2020;19
+Aviles;2021;21
+Aviles;2022;21
+Aviles;2023;18
+Aviles;2024;17
+Aviles;2025;17
+Ayamonte;2006;67
+Ayamonte;2007;65
+Ayamonte;2008;65
+Ayamonte;2009;62
+Ayamonte;2010;69
+Ayamonte;2011;69
+Ayamonte;2012;65
+Ayamonte;2013;65
+Ayamonte;2014;63
+Ayamonte;2015;60
+Ayamonte;2016;60
+Ayamonte;2017;63
+Ayamonte;2018;62
+Ayamonte;2019;61
+Ayamonte;2020;61
+Ayamonte;2021;61
+Ayamonte;2022;62
+Ayamonte;2023;62
+Ayamonte;2024;62
+Ayamonte;2025;62
+Badalona;2006;53
+Badalona;2007;53
+Badalona;2008;51
+Badalona;2009;51
+Badalona;2010;42
+Badalona;2011;40
+Badalona;2012;24
+Badalona;2013;21
+Badalona;2014;20
+Badalona;2015;19
+Badalona;2016;17
+Badalona;2017;15
+Badalona;2018;12
+Badalona;2019;11
+Badalona;2020;11
+Badalona;2021;10
+Badalona;2022;10
+Badalona;2023;9
+Badalona;2024;8
+Badalona;2025;8
+Barallobre;2006;29
+Barallobre;2007;30
+Barallobre;2008;26
+Barallobre;2009;25
+Barallobre;2010;26
+Barallobre;2011;27
+Barallobre;2012;28
+Barallobre;2013;28
+Barallobre;2014;29
+Barallobre;2015;28
+Barallobre;2016;30
+Barallobre;2017;30
+Barallobre;2018;31
+Barallobre;2019;31
+Barallobre;2020;33
+Barallobre;2021;33
+Barallobre;2022;39
+Barallobre;2023;41
+Barallobre;2024;39
+Barallobre;2025;37
+Barbate;2006;82
+Barbate;2007;78
+Barbate;2008;72
+Barbate;2009;68
+Barbate;2010;64
+Barbate;2011;64
+Barbate;2012;65
+Barbate;2013;61
+Barbate;2014;59
+Barbate;2015;56
+Barbate;2016;57
+Barbate;2017;57
+Barbate;2018;55
+Barbate;2019;55
+Barbate;2020;53
+Barbate;2021;52
+Barbate;2022;50
+Barbate;2023;50
+Barbate;2024;51
+Barbate;2025;52
+Barcelona;2006;65
+Barcelona;2007;63
+Barcelona;2008;44
+Barcelona;2009;43
+Barcelona;2010;42
+Barcelona;2011;40
+Barcelona;2012;40
+Barcelona;2013;39
+Barcelona;2014;36
+Barcelona;2015;36
+Barcelona;2016;36
+Barcelona;2017;33
+Barcelona;2018;27
+Barcelona;2019;27
+Barcelona;2020;26
+Barcelona;2021;25
+Barcelona;2022;24
+Barcelona;2023;22
+Barcelona;2024;22
+Barcelona;2025;21
+Barquero-Bares;2006;14
+Barquero-Bares;2007;13
+Barquero-Bares;2008;13
+Barquero-Bares;2009;13
+Barquero-Bares;2010;13
+Barquero-Bares;2011;13
+Barquero-Bares;2012;14
+Barquero-Bares;2013;15
+Barquero-Bares;2014;13
+Barquero-Bares;2015;12
+Barquero-Bares;2016;12
+Barquero-Bares;2017;11
+Barquero-Bares;2018;10
+Barquero-Bares;2019;11
+Barquero-Bares;2020;11
+Barquero-Bares;2021;9
+Barquero-Bares;2022;8
+Barquero-Bares;2023;8
+Barquero-Bares;2024;8
+Barquero-Bares;2025;8
+Bayona;2006;106
+Bayona;2007;104
+Bayona;2008;99
+Bayona;2009;96
+Bayona;2010;96
+Bayona;2011;95
+Bayona;2012;91
+Bayona;2013;87
+Bayona;2014;87
+Bayona;2015;82
+Bayona;2016;79
+Bayona;2017;75
+Bayona;2018;73
+Bayona;2019;70
+Bayona;2020;71
+Bayona;2021;67
+Bayona;2022;68
+Bayona;2023;68
+Bayona;2024;69
+Bayona;2025;68
+Bañugues;2006;9
+Bañugues;2007;8
+Bañugues;2008;5
+Bañugues;2009;6
+Bañugues;2010;4
+Bañugues;2011;3
+Bañugues;2012;4
+Bañugues;2013;4
+Bañugues;2014;3
+Bañugues;2015;1
+Bañugues;2016;1
+Bañugues;2017;3
+Bañugues;2018;2
+Bañugues;2019;4
+Bañugues;2020;4
+Bañugues;2021;4
+Bañugues;2022;4
+Bañugues;2023;4
+Bañugues;2024;4
+Bañugues;2025;4
+Benicarlo;2006;37
+Benicarlo;2007;36
+Benicarlo;2008;38
+Benicarlo;2009;36
+Benicarlo;2010;32
+Benicarlo;2011;33
+Benicarlo;2012;31
+Benicarlo;2013;31
+Benicarlo;2014;29
+Benicarlo;2015;31
+Benicarlo;2016;31
+Benicarlo;2017;31
+Benicarlo;2018;30
+Benicarlo;2019;27
+Benicarlo;2020;26
+Benicarlo;2021;25
+Benicarlo;2022;24
+Benicarlo;2023;23
+Benicarlo;2024;23
+Benicarlo;2025;21
+Benidorm;2006;3
+Benidorm;2007;3
+Benidorm;2008;2
+Benidorm;2009;2
+Benidorm;2010;2
+Benidorm;2011;2
+Benidorm;2012;2
+Benidorm;2013;2
+Benidorm;2014;2
+Benidorm;2015;2
+Benidorm;2016;2
+Benidorm;2017;2
+Benidorm;2018;2
+Benidorm;2019;3
+Benidorm;2020;3
+Benidorm;2021;3
+Benidorm;2022;3
+Benidorm;2023;3
+Benidorm;2024;3
+Benidorm;2025;3
+Bermeo;2006;88
+Bermeo;2007;83
+Bermeo;2008;78
+Bermeo;2009;73
+Bermeo;2010;70
+Bermeo;2011;62
+Bermeo;2012;58
+Bermeo;2013;58
+Bermeo;2014;53
+Bermeo;2015;52
+Bermeo;2016;53
+Bermeo;2017;52
+Bermeo;2018;55
+Bermeo;2019;57
+Bermeo;2020;59
+Bermeo;2021;59
+Bermeo;2022;57
+Bermeo;2023;55
+Bermeo;2024;51
+Bermeo;2025;51
+Bilbao;2009;1
+Bilbao;2010;1
+Bilbao;2011;1
+Bilbao;2012;1
+Bilbao;2013;1
+Bilbao;2014;1
+Bilbao;2015;1
+Bilbao;2016;1
+Bilbao;2017;1
+Bilbao;2018;1
+Bilbao;2019;1
+Bilbao;2020;1
+Bilbao;2021;1
+Bilbao;2022;1
+Bilbao;2023;1
+Bilbao;2024;1
+Bilbao;2025;1
+Blanes;2006;62
+Blanes;2007;61
+Blanes;2008;60
+Blanes;2009;58
+Blanes;2010;59
+Blanes;2011;55
+Blanes;2012;56
+Blanes;2013;57
+Blanes;2014;55
+Blanes;2015;54
+Blanes;2016;53
+Blanes;2017;51
+Blanes;2018;48
+Blanes;2019;47
+Blanes;2020;47
+Blanes;2021;45
+Blanes;2022;44
+Blanes;2023;44
+Blanes;2024;45
+Blanes;2025;42
+Bouzas;2006;4
+Bouzas;2007;3
+Bouzas;2008;1
+Bouzas;2009;1
+Bouzas;2010;1
+Buenavista;2006;2
+Buenavista;2007;2
+Buenavista;2008;1
+Buenavista;2009;1
+Bueu;2006;153
+Bueu;2007;151
+Bueu;2008;146
+Bueu;2009;146
+Bueu;2010;147
+Bueu;2011;145
+Bueu;2012;142
+Bueu;2013;137
+Bueu;2014;136
+Bueu;2015;131
+Bueu;2016;132
+Bueu;2017;129
+Bueu;2018;127
+Bueu;2019;123
+Bueu;2020;121
+Bueu;2021;116
+Bueu;2022;113
+Bueu;2023;111
+Bueu;2024;108
+Bueu;2025;105
+Burela;2006;104
+Burela;2007;108
+Burela;2008;101
+Burela;2009;95
+Burela;2010;87
+Burela;2011;87
+Burela;2012;81
+Burela;2013;79
+Burela;2014;83
+Burela;2015;77
+Burela;2016;77
+Burela;2017;77
+Burela;2018;79
+Burela;2019;76
+Burela;2020;74
+Burela;2021;77
+Burela;2022;78
+Burela;2023;78
+Burela;2024;78
+Burela;2025;75
+Burriana;2006;39
+Burriana;2007;39
+Burriana;2008;39
+Burriana;2009;36
+Burriana;2010;39
+Burriana;2011;33
+Burriana;2012;33
+Burriana;2013;31
+Burriana;2014;32
+Burriana;2015;33
+Burriana;2016;32
+Burriana;2017;30
+Burriana;2018;28
+Burriana;2019;27
+Burriana;2020;28
+Burriana;2021;29
+Burriana;2022;27
+Burriana;2023;25
+Burriana;2024;25
+Burriana;2025;25
+Bustio;2006;8
+Bustio;2007;8
+Bustio;2008;9
+Bustio;2009;8
+Bustio;2010;7
+Bustio;2011;7
+Bustio;2012;7
+Bustio;2013;7
+Bustio;2014;7
+Bustio;2015;6
+Bustio;2016;7
+Bustio;2017;8
+Bustio;2018;8
+Bustio;2019;8
+Bustio;2020;7
+Bustio;2021;7
+Bustio;2022;7
+Bustio;2023;7
+Bustio;2024;8
+Bustio;2025;8
+Cabo de Cruz - Boiro;2006;142
+Cabo de Cruz - Boiro;2007;135
+Cabo de Cruz - Boiro;2008;117
+Cabo de Cruz - Boiro;2009;117
+Cabo de Cruz - Boiro;2010;114
+Cabo de Cruz - Boiro;2011;112
+Cabo de Cruz - Boiro;2012;108
+Cabo de Cruz - Boiro;2013;95
+Cabo de Cruz - Boiro;2014;94
+Cabo de Cruz - Boiro;2015;93
+Cabo de Cruz - Boiro;2016;93
+Cabo de Cruz - Boiro;2017;90
+Cabo de Cruz - Boiro;2018;89
+Cabo de Cruz - Boiro;2019;90
+Cabo de Cruz - Boiro;2020;90
+Cabo de Cruz - Boiro;2021;90
+Cabo de Cruz - Boiro;2022;91
+Cabo de Cruz - Boiro;2023;89
+Cabo de Cruz - Boiro;2024;89
+Cabo de Cruz - Boiro;2025;90
+Cadaques;2006;22
+Cadaques;2007;15
+Cadaques;2008;12
+Cadaques;2009;12
+Cadaques;2010;12
+Cadaques;2011;12
+Cadaques;2012;12
+Cadaques;2013;11
+Cadaques;2014;7
+Cadaques;2015;7
+Cadaques;2016;7
+Cadaques;2017;7
+Cadaques;2018;5
+Cadaques;2019;5
+Cadaques;2020;5
+Cadaques;2021;5
+Cadaques;2022;5
+Cadaques;2023;4
+Cadaques;2024;4
+Cadaques;2025;4
+Cadiz;2006;38
+Cadiz;2007;36
+Cadiz;2008;28
+Cadiz;2009;27
+Cadiz;2010;25
+Cadiz;2011;23
+Cadiz;2012;22
+Cadiz;2013;16
+Cadiz;2014;15
+Cadiz;2015;14
+Cadiz;2016;11
+Cadiz;2017;11
+Cadiz;2018;9
+Cadiz;2019;9
+Cadiz;2020;9
+Cadiz;2021;7
+Cadiz;2022;7
+Cadiz;2023;8
+Cadiz;2024;7
+Cadiz;2025;8
+Cala Ratjada;2006;33
+Cala Ratjada;2007;30
+Cala Ratjada;2008;30
+Cala Ratjada;2009;29
+Cala Ratjada;2010;29
+Cala Ratjada;2011;27
+Cala Ratjada;2012;27
+Cala Ratjada;2013;27
+Cala Ratjada;2014;23
+Cala Ratjada;2015;23
+Cala Ratjada;2016;21
+Cala Ratjada;2017;17
+Cala Ratjada;2018;16
+Cala Ratjada;2019;15
+Cala Ratjada;2020;15
+Cala Ratjada;2021;15
+Cala Ratjada;2022;16
+Cala Ratjada;2023;15
+Cala Ratjada;2024;15
+Cala Ratjada;2025;15
+Calafell;2006;15
+Calafell;2007;16
+Calafell;2008;15
+Calafell;2009;16
+Calafell;2010;14
+Calafell;2011;13
+Calafell;2012;11
+Calafell;2013;11
+Calafell;2014;8
+Calafell;2015;8
+Calafell;2016;6
+Calafell;2017;6
+Calafell;2018;4
+Calafell;2019;5
+Calafell;2020;4
+Calafell;2021;3
+Calafell;2022;3
+Calafell;2023;3
+Calafell;2024;3
+Calafell;2025;3
+Calella de la Costa;2006;8
+Calella de la Costa;2007;8
+Calella de la Costa;2008;5
+Calella de la Costa;2009;5
+Calella de la Costa;2010;5
+Calella de la Costa;2011;5
+Calella de la Costa;2012;4
+Calella de la Costa;2013;4
+Calella de la Costa;2014;4
+Calella de la Costa;2015;4
+Calella de la Costa;2016;4
+Calella de la Costa;2017;4
+Calella de la Costa;2018;4
+Calella de la Costa;2019;4
+Calella de la Costa;2020;1
+Caleta del Sebo, La Graciosa;2006;44
+Caleta del Sebo, La Graciosa;2007;29
+Caleta del Sebo, La Graciosa;2008;29
+Caleta del Sebo, La Graciosa;2009;33
+Caleta del Sebo, La Graciosa;2010;39
+Caleta del Sebo, La Graciosa;2011;36
+Caleta del Sebo, La Graciosa;2012;35
+Caleta del Sebo, La Graciosa;2013;37
+Caleta del Sebo, La Graciosa;2014;39
+Caleta del Sebo, La Graciosa;2015;39
+Caleta del Sebo, La Graciosa;2016;39
+Caleta del Sebo, La Graciosa;2017;38
+Caleta del Sebo, La Graciosa;2018;40
+Caleta del Sebo, La Graciosa;2019;41
+Caleta del Sebo, La Graciosa;2020;42
+Caleta del Sebo, La Graciosa;2021;43
+Caleta del Sebo, La Graciosa;2022;46
+Caleta del Sebo, La Graciosa;2023;46
+Caleta del Sebo, La Graciosa;2024;39
+Caleta del Sebo, La Graciosa;2025;37
+Calpe;2006;29
+Calpe;2007;25
+Calpe;2008;25
+Calpe;2009;22
+Calpe;2010;19
+Calpe;2011;21
+Calpe;2012;21
+Calpe;2013;19
+Calpe;2014;21
+Calpe;2015;20
+Calpe;2016;19
+Calpe;2017;19
+Calpe;2018;19
+Calpe;2019;19
+Calpe;2020;18
+Calpe;2021;18
+Calpe;2022;18
+Calpe;2023;18
+Calpe;2024;18
+Calpe;2025;18
+Camariñas;2006;108
+Camariñas;2007;105
+Camariñas;2008;79
+Camariñas;2009;80
+Camariñas;2010;81
+Camariñas;2011;77
+Camariñas;2012;77
+Camariñas;2013;78
+Camariñas;2014;76
+Camariñas;2015;74
+Camariñas;2016;75
+Camariñas;2017;73
+Camariñas;2018;74
+Camariñas;2019;72
+Camariñas;2020;75
+Camariñas;2021;77
+Camariñas;2022;79
+Camariñas;2023;78
+Camariñas;2024;78
+Camariñas;2025;78
+Cambados;2006;355
+Cambados;2007;344
+Cambados;2008;245
+Cambados;2009;245
+Cambados;2010;253
+Cambados;2011;251
+Cambados;2012;241
+Cambados;2013;237
+Cambados;2014;239
+Cambados;2015;236
+Cambados;2016;234
+Cambados;2017;229
+Cambados;2018;223
+Cambados;2019;222
+Cambados;2020;218
+Cambados;2021;217
+Cambados;2022;214
+Cambados;2023;213
+Cambados;2024;215
+Cambados;2025;213
+Cambrils;2006;47
+Cambrils;2007;46
+Cambrils;2008;46
+Cambrils;2009;44
+Cambrils;2010;41
+Cambrils;2011;39
+Cambrils;2012;36
+Cambrils;2013;37
+Cambrils;2014;32
+Cambrils;2015;31
+Cambrils;2016;26
+Cambrils;2017;25
+Cambrils;2018;25
+Cambrils;2019;24
+Cambrils;2020;24
+Cambrils;2021;22
+Cambrils;2022;22
+Cambrils;2023;20
+Cambrils;2024;20
+Cambrils;2025;15
+Camelle;2006;96
+Camelle;2007;91
+Camelle;2008;73
+Camelle;2009;71
+Camelle;2010;69
+Camelle;2011;62
+Camelle;2012;58
+Camelle;2013;53
+Camelle;2014;52
+Camelle;2015;49
+Camelle;2016;48
+Camelle;2017;48
+Camelle;2018;46
+Camelle;2019;42
+Camelle;2020;41
+Camelle;2021;41
+Camelle;2022;42
+Camelle;2023;39
+Camelle;2024;39
+Camelle;2025;40
+Campello;2006;14
+Campello;2007;14
+Campello;2008;13
+Campello;2009;11
+Campello;2010;11
+Campello;2011;11
+Campello;2012;14
+Campello;2013;14
+Campello;2014;12
+Campello;2015;12
+Campello;2016;11
+Campello;2017;11
+Campello;2018;10
+Campello;2019;8
+Campello;2020;8
+Campello;2021;7
+Campello;2022;7
+Campello;2023;7
+Campello;2024;7
+Campello;2025;6
+Campelo;2006;50
+Campelo;2007;49
+Campelo;2008;43
+Campelo;2009;43
+Campelo;2010;41
+Campelo;2011;37
+Campelo;2012;37
+Campelo;2013;37
+Campelo;2014;38
+Campelo;2015;32
+Campelo;2016;36
+Campelo;2017;37
+Campelo;2018;35
+Campelo;2019;36
+Campelo;2020;35
+Campelo;2021;32
+Campelo;2022;31
+Campelo;2023;31
+Campelo;2024;31
+Campelo;2025;31
+Candas;2006;13
+Candas;2007;9
+Candas;2008;8
+Candas;2009;8
+Candas;2010;6
+Candas;2011;5
+Candas;2012;6
+Candas;2013;6
+Candas;2014;6
+Candas;2015;6
+Candas;2016;7
+Candas;2017;6
+Candas;2018;6
+Candas;2019;6
+Candas;2020;6
+Candas;2021;5
+Candas;2022;5
+Candas;2023;6
+Candas;2024;6
+Candas;2025;6
+Candelaria;2006;22
+Candelaria;2007;22
+Candelaria;2008;20
+Candelaria;2009;20
+Candelaria;2010;23
+Candelaria;2011;24
+Candelaria;2012;25
+Candelaria;2013;24
+Candelaria;2014;21
+Candelaria;2015;22
+Candelaria;2016;21
+Candelaria;2017;19
+Candelaria;2018;17
+Candelaria;2019;19
+Candelaria;2020;18
+Candelaria;2021;18
+Candelaria;2022;16
+Candelaria;2023;16
+Candelaria;2024;17
+Candelaria;2025;17
+Cangas;2006;174
+Cangas;2007;177
+Cangas;2008;162
+Cangas;2009;164
+Cangas;2010;163
+Cangas;2011;163
+Cangas;2012;158
+Cangas;2013;155
+Cangas;2014;152
+Cangas;2015;149
+Cangas;2016;148
+Cangas;2017;143
+Cangas;2018;141
+Cangas;2019;139
+Cangas;2020;136
+Cangas;2021;138
+Cangas;2022;138
+Cangas;2023;138
+Cangas;2024;141
+Cangas;2025;140
+Canido;2017;1
+Canido;2018;1
+Canido;2019;1
+Canido;2020;1
+Canido;2021;1
+Canido;2022;1
+Carboneras;2006;78
+Carboneras;2007;75
+Carboneras;2008;72
+Carboneras;2009;72
+Carboneras;2010;70
+Carboneras;2011;64
+Carboneras;2012;61
+Carboneras;2013;53
+Carboneras;2014;54
+Carboneras;2015;49
+Carboneras;2016;57
+Carboneras;2017;56
+Carboneras;2018;56
+Carboneras;2019;55
+Carboneras;2020;53
+Carboneras;2021;52
+Carboneras;2022;51
+Carboneras;2023;58
+Carboneras;2024;59
+Carboneras;2025;61
+Cariño;2006;52
+Cariño;2007;52
+Cariño;2008;51
+Cariño;2009;51
+Cariño;2010;49
+Cariño;2011;45
+Cariño;2012;48
+Cariño;2013;49
+Cariño;2014;45
+Cariño;2015;40
+Cariño;2016;38
+Cariño;2017;38
+Cariño;2018;39
+Cariño;2019;38
+Cariño;2020;37
+Cariño;2021;37
+Cariño;2022;34
+Cariño;2023;32
+Cariño;2024;32
+Cariño;2025;30
+Carreira-Aguiño;2006;138
+Carreira-Aguiño;2007;134
+Carreira-Aguiño;2008;127
+Carreira-Aguiño;2009;127
+Carreira-Aguiño;2010;125
+Carreira-Aguiño;2011;122
+Carreira-Aguiño;2012;120
+Carreira-Aguiño;2013;116
+Carreira-Aguiño;2014;114
+Carreira-Aguiño;2015;112
+Carreira-Aguiño;2016;112
+Carreira-Aguiño;2017;109
+Carreira-Aguiño;2018;107
+Carreira-Aguiño;2019;107
+Carreira-Aguiño;2020;105
+Carreira-Aguiño;2021;104
+Carreira-Aguiño;2022;104
+Carreira-Aguiño;2023;102
+Carreira-Aguiño;2024;104
+Carreira-Aguiño;2025;104
+Carril;2006;67
+Carril;2007;54
+Carril;2008;41
+Carril;2009;42
+Carril;2010;43
+Carril;2011;43
+Carril;2012;43
+Carril;2013;42
+Carril;2014;39
+Carril;2015;43
+Carril;2016;43
+Carril;2017;43
+Carril;2018;43
+Carril;2019;44
+Carril;2020;45
+Carril;2021;44
+Carril;2022;44
+Carril;2023;44
+Carril;2024;41
+Carril;2025;41
+Cartagena;2006;66
+Cartagena;2007;62
+Cartagena;2008;60
+Cartagena;2009;58
+Cartagena;2010;56
+Cartagena;2011;53
+Cartagena;2012;53
+Cartagena;2013;55
+Cartagena;2014;51
+Cartagena;2015;48
+Cartagena;2016;45
+Cartagena;2017;40
+Cartagena;2018;41
+Cartagena;2019;43
+Cartagena;2020;43
+Cartagena;2021;43
+Cartagena;2022;44
+Cartagena;2023;45
+Cartagena;2024;45
+Cartagena;2025;41
+Casas de Alcanar;2006;11
+Casas de Alcanar;2007;10
+Casas de Alcanar;2008;9
+Casas de Alcanar;2009;8
+Casas de Alcanar;2010;6
+Casas de Alcanar;2011;7
+Casas de Alcanar;2012;7
+Casas de Alcanar;2013;8
+Casas de Alcanar;2014;8
+Casas de Alcanar;2015;8
+Casas de Alcanar;2016;8
+Casas de Alcanar;2017;9
+Casas de Alcanar;2018;10
+Casas de Alcanar;2019;11
+Casas de Alcanar;2020;11
+Casas de Alcanar;2021;11
+Casas de Alcanar;2022;11
+Casas de Alcanar;2023;11
+Casas de Alcanar;2024;11
+Casas de Alcanar;2025;11
+Castellon de la Plana (El Grao);2006;90
+Castellon de la Plana (El Grao);2007;86
+Castellon de la Plana (El Grao);2008;82
+Castellon de la Plana (El Grao);2009;68
+Castellon de la Plana (El Grao);2010;64
+Castellon de la Plana (El Grao);2011;58
+Castellon de la Plana (El Grao);2012;54
+Castellon de la Plana (El Grao);2013;51
+Castellon de la Plana (El Grao);2014;50
+Castellon de la Plana (El Grao);2015;52
+Castellon de la Plana (El Grao);2016;52
+Castellon de la Plana (El Grao);2017;52
+Castellon de la Plana (El Grao);2018;49
+Castellon de la Plana (El Grao);2019;48
+Castellon de la Plana (El Grao);2020;45
+Castellon de la Plana (El Grao);2021;47
+Castellon de la Plana (El Grao);2022;45
+Castellon de la Plana (El Grao);2023;42
+Castellon de la Plana (El Grao);2024;40
+Castellon de la Plana (El Grao);2025;38
+Castillo del Romeral;2006;18
+Castillo del Romeral;2007;18
+Castillo del Romeral;2008;17
+Castillo del Romeral;2009;20
+Castillo del Romeral;2010;20
+Castillo del Romeral;2011;20
+Castillo del Romeral;2012;20
+Castillo del Romeral;2013;19
+Castillo del Romeral;2014;19
+Castillo del Romeral;2015;19
+Castillo del Romeral;2016;20
+Castillo del Romeral;2017;19
+Castillo del Romeral;2018;18
+Castillo del Romeral;2019;19
+Castillo del Romeral;2020;19
+Castillo del Romeral;2021;19
+Castillo del Romeral;2022;18
+Castillo del Romeral;2023;19
+Castillo del Romeral;2024;15
+Castillo del Romeral;2025;16
+Castro Urdiales;2006;21
+Castro Urdiales;2007;21
+Castro Urdiales;2008;22
+Castro Urdiales;2009;22
+Castro Urdiales;2010;22
+Castro Urdiales;2011;12
+Castro Urdiales;2012;12
+Castro Urdiales;2013;12
+Castro Urdiales;2014;12
+Castro Urdiales;2015;11
+Castro Urdiales;2016;11
+Castro Urdiales;2017;11
+Castro Urdiales;2018;10
+Castro Urdiales;2019;10
+Castro Urdiales;2020;11
+Castro Urdiales;2021;11
+Castro Urdiales;2022;10
+Castro Urdiales;2023;10
+Castro Urdiales;2024;9
+Castro Urdiales;2025;9
+Cayon;2006;14
+Cayon;2007;14
+Cayon;2008;12
+Cayon;2009;12
+Cayon;2010;11
+Cayon;2011;8
+Cayon;2012;7
+Cayon;2013;5
+Cayon;2014;5
+Cayon;2015;5
+Cayon;2016;5
+Cayon;2017;6
+Cayon;2018;7
+Cayon;2019;7
+Cayon;2020;8
+Cayon;2021;5
+Cayon;2022;5
+Cayon;2023;5
+Cayon;2024;4
+Cayon;2025;4
+Cedeira;2006;72
+Cedeira;2007;74
+Cedeira;2008;75
+Cedeira;2009;75
+Cedeira;2010;74
+Cedeira;2011;74
+Cedeira;2012;75
+Cedeira;2013;75
+Cedeira;2014;74
+Cedeira;2015;73
+Cedeira;2016;75
+Cedeira;2017;74
+Cedeira;2018;65
+Cedeira;2019;65
+Cedeira;2020;63
+Cedeira;2021;62
+Cedeira;2022;61
+Cedeira;2023;61
+Cedeira;2024;61
+Cedeira;2025;61
+Ceuta;2006;47
+Ceuta;2007;47
+Ceuta;2008;42
+Ceuta;2009;38
+Ceuta;2010;37
+Ceuta;2011;31
+Ceuta;2012;30
+Ceuta;2013;27
+Ceuta;2014;24
+Ceuta;2015;24
+Ceuta;2016;23
+Ceuta;2017;23
+Ceuta;2018;19
+Ceuta;2019;17
+Ceuta;2020;16
+Ceuta;2021;15
+Ceuta;2022;14
+Ceuta;2023;10
+Ceuta;2024;9
+Ceuta;2025;8
+Chipiona;2006;48
+Chipiona;2007;50
+Chipiona;2008;53
+Chipiona;2009;54
+Chipiona;2010;58
+Chipiona;2011;60
+Chipiona;2012;60
+Chipiona;2013;60
+Chipiona;2014;61
+Chipiona;2015;62
+Chipiona;2016;62
+Chipiona;2017;62
+Chipiona;2018;63
+Chipiona;2019;61
+Chipiona;2020;60
+Chipiona;2021;58
+Chipiona;2022;58
+Chipiona;2023;57
+Chipiona;2024;55
+Chipiona;2025;52
+Ciervana;2006;6
+Ciervana;2007;7
+Ciervana;2008;7
+Ciervana;2009;7
+Ciervana;2010;7
+Ciervana;2011;7
+Ciervana;2012;7
+Ciervana;2013;6
+Ciervana;2014;4
+Ciervana;2015;4
+Ciervana;2016;4
+Ciervana;2017;4
+Ciervana;2018;5
+Ciervana;2019;5
+Ciervana;2020;5
+Ciervana;2021;5
+Ciervana;2022;5
+Ciervana;2023;4
+Ciervana;2024;4
+Ciervana;2025;4
+Cillero;2006;80
+Cillero;2007;76
+Cillero;2008;82
+Cillero;2009;81
+Cillero;2010;77
+Cillero;2011;69
+Cillero;2012;66
+Cillero;2013;64
+Cillero;2014;56
+Cillero;2015;52
+Cillero;2016;54
+Cillero;2017;58
+Cillero;2018;59
+Cillero;2019;56
+Cillero;2020;55
+Cillero;2021;56
+Cillero;2022;56
+Cillero;2023;55
+Cillero;2024;52
+Cillero;2025;53
+Ciudadela;2006;26
+Ciudadela;2007;26
+Ciudadela;2008;27
+Ciudadela;2009;27
+Ciudadela;2010;27
+Ciudadela;2011;24
+Ciudadela;2012;25
+Ciudadela;2013;24
+Ciudadela;2014;23
+Ciudadela;2015;24
+Ciudadela;2016;24
+Ciudadela;2017;23
+Ciudadela;2018;23
+Ciudadela;2019;23
+Ciudadela;2020;23
+Ciudadela;2021;23
+Ciudadela;2022;23
+Ciudadela;2023;24
+Ciudadela;2024;24
+Ciudadela;2025;24
+Colindres;2006;19
+Colindres;2007;18
+Colindres;2008;18
+Colindres;2009;17
+Colindres;2010;16
+Colindres;2011;16
+Colindres;2012;16
+Colindres;2013;14
+Colindres;2014;14
+Colindres;2015;13
+Colindres;2016;13
+Colindres;2017;13
+Colindres;2018;14
+Colindres;2019;16
+Colindres;2020;16
+Colindres;2021;15
+Colindres;2022;14
+Colindres;2023;14
+Colindres;2024;13
+Colindres;2025;12
+Colonia San Jorge;2006;39
+Colonia San Jorge;2007;37
+Colonia San Jorge;2008;37
+Colonia San Jorge;2009;36
+Colonia San Jorge;2010;36
+Colonia San Jorge;2011;36
+Colonia San Jorge;2012;34
+Colonia San Jorge;2013;33
+Colonia San Jorge;2014;29
+Colonia San Jorge;2015;28
+Colonia San Jorge;2016;28
+Colonia San Jorge;2017;27
+Colonia San Jorge;2018;29
+Colonia San Jorge;2019;30
+Colonia San Jorge;2020;31
+Colonia San Jorge;2021;31
+Colonia San Jorge;2022;30
+Colonia San Jorge;2023;30
+Colonia San Jorge;2024;30
+Colonia San Jorge;2025;29
+Combarro;2006;53
+Combarro;2007;53
+Combarro;2008;46
+Combarro;2009;47
+Combarro;2010;48
+Combarro;2011;55
+Combarro;2012;56
+Combarro;2013;54
+Combarro;2014;55
+Combarro;2015;56
+Combarro;2016;57
+Combarro;2017;58
+Combarro;2018;58
+Combarro;2019;58
+Combarro;2020;58
+Combarro;2021;55
+Combarro;2022;56
+Combarro;2023;56
+Combarro;2024;56
+Combarro;2025;58
+Comillas;2006;3
+Comillas;2007;3
+Comillas;2008;4
+Comillas;2009;4
+Comillas;2010;4
+Comillas;2011;4
+Comillas;2012;4
+Comillas;2013;4
+Comillas;2014;4
+Comillas;2015;4
+Comillas;2016;4
+Comillas;2017;6
+Comillas;2018;6
+Comillas;2019;5
+Comillas;2020;5
+Comillas;2021;4
+Comillas;2022;4
+Comillas;2023;4
+Comillas;2024;4
+Comillas;2025;4
+Conil;2006;73
+Conil;2007;71
+Conil;2008;69
+Conil;2009;69
+Conil;2010;68
+Conil;2011;67
+Conil;2012;67
+Conil;2013;69
+Conil;2014;68
+Conil;2015;66
+Conil;2016;64
+Conil;2017;60
+Conil;2018;60
+Conil;2019;60
+Conil;2020;59
+Conil;2021;57
+Conil;2022;53
+Conil;2023;51
+Conil;2024;49
+Conil;2025;46
+Corcubión;2006;34
+Corcubión;2007;34
+Corcubión;2008;27
+Corcubión;2009;25
+Corcubión;2010;27
+Corcubión;2011;30
+Corcubión;2012;26
+Corcubión;2013;25
+Corcubión;2014;26
+Corcubión;2015;26
+Corcubión;2016;24
+Corcubión;2017;25
+Corcubión;2018;23
+Corcubión;2019;24
+Corcubión;2020;24
+Corcubión;2021;24
+Corcubión;2022;24
+Corcubión;2023;24
+Corcubión;2024;25
+Corcubión;2025;25
+Corme;2006;29
+Corme;2007;30
+Corme;2008;26
+Corme;2009;26
+Corme;2010;27
+Corme;2011;25
+Corme;2012;25
+Corme;2013;25
+Corme;2014;25
+Corme;2015;25
+Corme;2016;23
+Corme;2017;22
+Corme;2018;23
+Corme;2019;23
+Corme;2020;24
+Corme;2021;24
+Corme;2022;21
+Corme;2023;22
+Corme;2024;23
+Corme;2025;25
+Corralejo;2006;16
+Corralejo;2007;33
+Corralejo;2008;36
+Corralejo;2009;38
+Corralejo;2010;39
+Corralejo;2011;41
+Corralejo;2012;43
+Corralejo;2013;42
+Corralejo;2014;38
+Corralejo;2015;35
+Corralejo;2016;32
+Corralejo;2017;26
+Corralejo;2018;25
+Corralejo;2019;24
+Corralejo;2020;24
+Corralejo;2021;23
+Corralejo;2022;23
+Corralejo;2023;25
+Corralejo;2024;31
+Corralejo;2025;37
+Corrubedo;2006;18
+Corrubedo;2007;17
+Corrubedo;2008;17
+Corrubedo;2009;16
+Corrubedo;2010;16
+Corrubedo;2011;16
+Corrubedo;2012;16
+Corrubedo;2013;16
+Corrubedo;2014;16
+Corrubedo;2015;14
+Corrubedo;2016;14
+Corrubedo;2017;13
+Corrubedo;2018;13
+Corrubedo;2019;11
+Corrubedo;2020;12
+Corrubedo;2021;12
+Corrubedo;2022;11
+Corrubedo;2023;11
+Corrubedo;2024;10
+Corrubedo;2025;10
+Cudillero;2006;63
+Cudillero;2007;63
+Cudillero;2008;61
+Cudillero;2009;59
+Cudillero;2010;59
+Cudillero;2011;57
+Cudillero;2012;52
+Cudillero;2013;51
+Cudillero;2014;52
+Cudillero;2015;53
+Cudillero;2016;52
+Cudillero;2017;51
+Cudillero;2018;50
+Cudillero;2019;50
+Cudillero;2020;47
+Cudillero;2021;48
+Cudillero;2022;48
+Cudillero;2023;46
+Cudillero;2024;46
+Cudillero;2025;44
+Cullera;2006;75
+Cullera;2007;76
+Cullera;2008;63
+Cullera;2009;63
+Cullera;2010;59
+Cullera;2011;54
+Cullera;2012;56
+Cullera;2013;55
+Cullera;2014;52
+Cullera;2015;52
+Cullera;2016;50
+Cullera;2017;51
+Cullera;2018;49
+Cullera;2019;47
+Cullera;2020;46
+Cullera;2021;42
+Cullera;2022;38
+Cullera;2023;37
+Cullera;2024;34
+Cullera;2025;32
+Deltebre;2006;36
+Deltebre;2007;36
+Deltebre;2008;18
+Deltebre;2009;16
+Deltebre;2010;14
+Deltebre;2011;15
+Deltebre;2012;13
+Deltebre;2013;12
+Deltebre;2014;14
+Deltebre;2015;15
+Deltebre;2016;14
+Deltebre;2017;16
+Deltebre;2018;15
+Deltebre;2019;19
+Deltebre;2020;26
+Deltebre;2021;26
+Deltebre;2022;26
+Deltebre;2023;27
+Deltebre;2024;27
+Deltebre;2025;28
+Denia;2006;43
+Denia;2007;41
+Denia;2008;38
+Denia;2009;38
+Denia;2010;37
+Denia;2011;31
+Denia;2012;32
+Denia;2013;32
+Denia;2014;33
+Denia;2015;32
+Denia;2016;31
+Denia;2017;30
+Denia;2018;30
+Denia;2019;30
+Denia;2020;29
+Denia;2021;29
+Denia;2022;28
+Denia;2023;27
+Denia;2024;28
+Denia;2025;27
+El Cotillo;2009;2
+El Cotillo;2010;2
+El Cotillo;2011;2
+El Cotillo;2012;3
+El Cotillo;2013;3
+El Cotillo;2014;3
+El Cotillo;2015;3
+El Cotillo;2016;3
+El Cotillo;2017;3
+El Cotillo;2018;2
+El Cotillo;2019;3
+El Cotillo;2020;3
+El Cotillo;2021;3
+El Cotillo;2022;3
+El Cotillo;2023;2
+El Cotillo;2024;2
+El Cotillo;2025;3
+El Grove;2006;213
+El Grove;2007;213
+El Grove;2008;175
+El Grove;2009;173
+El Grove;2010;170
+El Grove;2011;164
+El Grove;2012;157
+El Grove;2013;153
+El Grove;2014;154
+El Grove;2015;154
+El Grove;2016;156
+El Grove;2017;156
+El Grove;2018;156
+El Grove;2019;152
+El Grove;2020;154
+El Grove;2021;150
+El Grove;2022;145
+El Grove;2023;145
+El Grove;2024;144
+El Grove;2025;145
+El Masnou;2006;3
+El Masnou;2007;3
+El Masnou;2008;3
+El Masnou;2009;3
+El Masnou;2010;3
+El Masnou;2011;3
+El Masnou;2012;3
+El Masnou;2013;3
+El Masnou;2014;3
+El Masnou;2015;3
+El Masnou;2016;9
+El Masnou;2017;8
+El Masnou;2018;7
+El Masnou;2019;7
+El Masnou;2020;7
+El Masnou;2021;7
+El Masnou;2022;7
+El Masnou;2023;7
+El Masnou;2024;7
+El Masnou;2025;5
+El Medano;2006;7
+El Medano;2007;7
+El Medano;2008;5
+El Medano;2009;4
+El Medano;2010;4
+El Medano;2011;3
+El Medano;2012;3
+El Medano;2013;2
+El Medano;2014;2
+El Medano;2015;1
+El Medano;2016;1
+El Medano;2017;1
+El Medano;2018;1
+El Medano;2019;1
+El Medano;2020;1
+El Pindo;2006;7
+El Pindo;2007;6
+El Pindo;2008;8
+El Pindo;2009;7
+El Pindo;2010;7
+El Pindo;2011;7
+El Pindo;2012;5
+El Pindo;2013;4
+El Pindo;2014;4
+El Pindo;2015;4
+El Pindo;2016;2
+El Pindo;2017;2
+El Pindo;2018;2
+El Pindo;2019;2
+El Pindo;2020;2
+El Pindo;2021;1
+El Pindo;2022;1
+El Pindo;2023;1
+El Pindo;2024;1
+El Pindo;2025;2
+El Pris - Tacoronte;2006;22
+El Pris - Tacoronte;2007;21
+El Pris - Tacoronte;2008;21
+El Pris - Tacoronte;2009;21
+El Pris - Tacoronte;2010;21
+El Pris - Tacoronte;2011;21
+El Pris - Tacoronte;2012;17
+El Pris - Tacoronte;2013;17
+El Pris - Tacoronte;2014;17
+El Pris - Tacoronte;2015;16
+El Pris - Tacoronte;2016;16
+El Pris - Tacoronte;2017;17
+El Pris - Tacoronte;2018;16
+El Pris - Tacoronte;2019;15
+El Pris - Tacoronte;2020;15
+El Pris - Tacoronte;2021;17
+El Pris - Tacoronte;2022;17
+El Pris - Tacoronte;2023;16
+El Pris - Tacoronte;2024;16
+El Pris - Tacoronte;2025;17
+El Puertito de Güimar;2006;2
+El Puertito de Güimar;2007;2
+El Puertito de Güimar;2008;2
+El Puertito de Güimar;2009;2
+El Puertito de Güimar;2010;2
+El Puertito de Güimar;2011;2
+El Puertito de Güimar;2012;2
+El Puertito de Güimar;2013;2
+El Puertito de Güimar;2014;2
+El Puertito de Güimar;2015;2
+El Puertito de Güimar;2016;2
+El Puertito de Güimar;2017;2
+El Puertito de Güimar;2018;1
+El Puertito de Güimar;2019;1
+El Puertito de Güimar;2020;1
+Elanchove;2006;3
+Elanchove;2007;3
+Elanchove;2008;1
+Elanchove;2009;1
+Elanchove;2010;1
+Espasante;2006;17
+Espasante;2007;18
+Espasante;2008;14
+Espasante;2009;13
+Espasante;2010;13
+Espasante;2011;12
+Espasante;2012;11
+Espasante;2013;12
+Espasante;2014;11
+Espasante;2015;11
+Espasante;2016;12
+Espasante;2017;12
+Espasante;2018;12
+Espasante;2019;12
+Espasante;2020;11
+Espasante;2021;11
+Espasante;2022;10
+Espasante;2023;9
+Espasante;2024;8
+Espasante;2025;7
+Estartit;2006;28
+Estartit;2007;27
+Estartit;2008;24
+Estartit;2009;22
+Estartit;2010;22
+Estartit;2011;17
+Estartit;2012;16
+Estartit;2013;16
+Estartit;2014;14
+Estartit;2015;13
+Estartit;2016;12
+Estartit;2017;12
+Estartit;2018;13
+Estartit;2019;13
+Estartit;2020;12
+Estartit;2021;13
+Estartit;2022;14
+Estartit;2023;13
+Estartit;2024;14
+Estartit;2025;14
+Estepona;2006;95
+Estepona;2007;95
+Estepona;2008;84
+Estepona;2009;79
+Estepona;2010;78
+Estepona;2011;73
+Estepona;2012;73
+Estepona;2013;72
+Estepona;2014;72
+Estepona;2015;67
+Estepona;2016;69
+Estepona;2017;68
+Estepona;2018;66
+Estepona;2019;65
+Estepona;2020;65
+Estepona;2021;64
+Estepona;2022;61
+Estepona;2023;61
+Estepona;2024;58
+Estepona;2025;59
+Ferrol;2006;97
+Ferrol;2007;99
+Ferrol;2008;105
+Ferrol;2009;107
+Ferrol;2010;108
+Ferrol;2011;107
+Ferrol;2012;110
+Ferrol;2013;110
+Ferrol;2014;110
+Ferrol;2015;108
+Ferrol;2016;107
+Ferrol;2017;112
+Ferrol;2018;112
+Ferrol;2019;115
+Ferrol;2020;113
+Ferrol;2021;110
+Ferrol;2022;108
+Ferrol;2023;106
+Ferrol;2024;108
+Ferrol;2025;110
+Figueras;2006;7
+Figueras;2007;6
+Figueras;2008;4
+Figueras;2009;4
+Figueras;2010;5
+Figueras;2011;5
+Figueras;2012;5
+Figueras;2013;5
+Figueras;2014;4
+Figueras;2015;2
+Figueras;2016;2
+Figueras;2017;2
+Figueras;2018;2
+Figueras;2019;2
+Figueras;2020;2
+Figueras;2021;2
+Figueras;2022;2
+Figueras;2023;2
+Figueras;2024;2
+Figueras;2025;2
+Finisterre;2006;91
+Finisterre;2007;94
+Finisterre;2008;90
+Finisterre;2009;91
+Finisterre;2010;90
+Finisterre;2011;88
+Finisterre;2012;86
+Finisterre;2013;83
+Finisterre;2014;79
+Finisterre;2015;75
+Finisterre;2016;77
+Finisterre;2017;76
+Finisterre;2018;76
+Finisterre;2019;75
+Finisterre;2020;74
+Finisterre;2021;75
+Finisterre;2022;75
+Finisterre;2023;73
+Finisterre;2024;72
+Finisterre;2025;70
+Formentera (Cala Savina);2006;32
+Formentera (Cala Savina);2007;31
+Formentera (Cala Savina);2008;28
+Formentera (Cala Savina);2009;27
+Formentera (Cala Savina);2010;29
+Formentera (Cala Savina);2011;27
+Formentera (Cala Savina);2012;27
+Formentera (Cala Savina);2013;27
+Formentera (Cala Savina);2014;26
+Formentera (Cala Savina);2015;24
+Formentera (Cala Savina);2016;24
+Formentera (Cala Savina);2017;25
+Formentera (Cala Savina);2018;24
+Formentera (Cala Savina);2019;24
+Formentera (Cala Savina);2020;24
+Formentera (Cala Savina);2021;25
+Formentera (Cala Savina);2022;25
+Formentera (Cala Savina);2023;24
+Formentera (Cala Savina);2024;24
+Formentera (Cala Savina);2025;24
+Fornells;2006;18
+Fornells;2007;18
+Fornells;2008;16
+Fornells;2009;16
+Fornells;2010;15
+Fornells;2011;15
+Fornells;2012;15
+Fornells;2013;14
+Fornells;2014;14
+Fornells;2015;14
+Fornells;2016;14
+Fornells;2017;12
+Fornells;2018;12
+Fornells;2019;11
+Fornells;2020;11
+Fornells;2021;11
+Fornells;2022;11
+Fornells;2023;11
+Fornells;2024;10
+Fornells;2025;9
+Foz;2006;9
+Foz;2007;9
+Foz;2008;10
+Foz;2009;10
+Foz;2010;9
+Foz;2011;9
+Foz;2012;8
+Foz;2013;6
+Foz;2014;7
+Foz;2015;7
+Foz;2016;7
+Foz;2017;6
+Foz;2018;6
+Foz;2019;6
+Foz;2020;5
+Foz;2021;4
+Foz;2022;4
+Foz;2023;4
+Foz;2024;4
+Foz;2025;4
+Fuencaliente;2018;1
+Fuencaliente;2019;1
+Fuencaliente;2020;1
+Fuencaliente;2021;1
+Fuengirola;2006;84
+Fuengirola;2007;84
+Fuengirola;2008;65
+Fuengirola;2009;60
+Fuengirola;2010;58
+Fuengirola;2011;59
+Fuengirola;2012;55
+Fuengirola;2013;58
+Fuengirola;2014;53
+Fuengirola;2015;52
+Fuengirola;2016;48
+Fuengirola;2017;45
+Fuengirola;2018;42
+Fuengirola;2019;42
+Fuengirola;2020;44
+Fuengirola;2021;43
+Fuengirola;2022;41
+Fuengirola;2023;39
+Fuengirola;2024;42
+Fuengirola;2025;39
+Fuenterrabia;2006;31
+Fuenterrabia;2007;31
+Fuenterrabia;2008;31
+Fuenterrabia;2009;31
+Fuenterrabia;2010;31
+Fuenterrabia;2011;29
+Fuenterrabia;2012;31
+Fuenterrabia;2013;32
+Fuenterrabia;2014;30
+Fuenterrabia;2015;30
+Fuenterrabia;2016;29
+Fuenterrabia;2017;29
+Fuenterrabia;2018;30
+Fuenterrabia;2019;31
+Fuenterrabia;2020;33
+Fuenterrabia;2021;32
+Fuenterrabia;2022;31
+Fuenterrabia;2023;31
+Fuenterrabia;2024;30
+Fuenterrabia;2025;29
+Gandia;2006;80
+Gandia;2007;74
+Gandia;2008;71
+Gandia;2009;65
+Gandia;2010;64
+Gandia;2011;57
+Gandia;2012;55
+Gandia;2013;48
+Gandia;2014;48
+Gandia;2015;47
+Gandia;2016;47
+Gandia;2017;48
+Gandia;2018;46
+Gandia;2019;42
+Gandia;2020;40
+Gandia;2021;39
+Gandia;2022;40
+Gandia;2023;32
+Gandia;2024;33
+Gandia;2025;30
+Garachico;2006;13
+Garachico;2007;11
+Garachico;2008;8
+Garachico;2009;8
+Garachico;2010;10
+Garachico;2011;9
+Garachico;2012;13
+Garachico;2013;14
+Garachico;2014;15
+Garachico;2015;17
+Garachico;2016;18
+Garachico;2017;19
+Garachico;2018;19
+Garachico;2019;20
+Garachico;2020;21
+Garachico;2021;23
+Garachico;2022;24
+Garachico;2023;24
+Garachico;2024;23
+Garachico;2025;23
+Garrucha;2006;61
+Garrucha;2007;60
+Garrucha;2008;53
+Garrucha;2009;45
+Garrucha;2010;41
+Garrucha;2011;39
+Garrucha;2012;35
+Garrucha;2013;31
+Garrucha;2014;29
+Garrucha;2015;29
+Garrucha;2016;30
+Garrucha;2017;26
+Garrucha;2018;24
+Garrucha;2019;23
+Garrucha;2020;23
+Garrucha;2021;23
+Garrucha;2022;21
+Garrucha;2023;20
+Garrucha;2024;20
+Garrucha;2025;20
+Gijon (El Musel);2006;38
+Gijon (El Musel);2007;34
+Gijon (El Musel);2008;26
+Gijon (El Musel);2009;24
+Gijon (El Musel);2010;21
+Gijon (El Musel);2011;19
+Gijon (El Musel);2012;20
+Gijon (El Musel);2013;21
+Gijon (El Musel);2014;20
+Gijon (El Musel);2015;20
+Gijon (El Musel);2016;19
+Gijon (El Musel);2017;21
+Gijon (El Musel);2018;20
+Gijon (El Musel);2019;20
+Gijon (El Musel);2020;20
+Gijon (El Musel);2021;19
+Gijon (El Musel);2022;19
+Gijon (El Musel);2023;19
+Gijon (El Musel);2024;19
+Gijon (El Musel);2025;19
+Gran Tarajal;2006;60
+Gran Tarajal;2007;59
+Gran Tarajal;2008;58
+Gran Tarajal;2009;56
+Gran Tarajal;2010;55
+Gran Tarajal;2011;55
+Gran Tarajal;2012;43
+Gran Tarajal;2013;42
+Gran Tarajal;2014;41
+Gran Tarajal;2015;44
+Gran Tarajal;2016;42
+Gran Tarajal;2017;39
+Gran Tarajal;2018;40
+Gran Tarajal;2019;41
+Gran Tarajal;2020;41
+Gran Tarajal;2021;41
+Gran Tarajal;2022;40
+Gran Tarajal;2023;40
+Gran Tarajal;2024;41
+Gran Tarajal;2025;40
+Guardamar del Segura;2006;11
+Guardamar del Segura;2007;10
+Guardamar del Segura;2008;10
+Guardamar del Segura;2009;11
+Guardamar del Segura;2010;11
+Guardamar del Segura;2011;8
+Guardamar del Segura;2012;8
+Guardamar del Segura;2013;8
+Guardamar del Segura;2014;8
+Guardamar del Segura;2015;9
+Guardamar del Segura;2016;10
+Guardamar del Segura;2017;10
+Guardamar del Segura;2018;10
+Guardamar del Segura;2019;10
+Guardamar del Segura;2020;10
+Guardamar del Segura;2021;9
+Guardamar del Segura;2022;10
+Guardamar del Segura;2023;10
+Guardamar del Segura;2024;10
+Guardamar del Segura;2025;10
+Guetaria;2006;30
+Guetaria;2007;30
+Guetaria;2008;29
+Guetaria;2009;29
+Guetaria;2010;29
+Guetaria;2011;27
+Guetaria;2012;26
+Guetaria;2013;26
+Guetaria;2014;27
+Guetaria;2015;27
+Guetaria;2016;27
+Guetaria;2017;26
+Guetaria;2018;24
+Guetaria;2019;25
+Guetaria;2020;25
+Guetaria;2021;25
+Guetaria;2022;25
+Guetaria;2023;27
+Guetaria;2024;27
+Guetaria;2025;26
+Huelva;2006;56
+Huelva;2007;55
+Huelva;2008;54
+Huelva;2009;53
+Huelva;2010;53
+Huelva;2011;52
+Huelva;2012;48
+Huelva;2013;44
+Huelva;2014;41
+Huelva;2015;39
+Huelva;2016;37
+Huelva;2017;38
+Huelva;2018;38
+Huelva;2019;37
+Huelva;2020;37
+Huelva;2021;37
+Huelva;2022;38
+Huelva;2023;39
+Huelva;2024;34
+Huelva;2025;31
+Ibiza;2006;53
+Ibiza;2007;53
+Ibiza;2008;49
+Ibiza;2009;49
+Ibiza;2010;44
+Ibiza;2011;42
+Ibiza;2012;42
+Ibiza;2013;40
+Ibiza;2014;37
+Ibiza;2015;35
+Ibiza;2016;36
+Ibiza;2017;35
+Ibiza;2018;37
+Ibiza;2019;37
+Ibiza;2020;36
+Ibiza;2021;39
+Ibiza;2022;38
+Ibiza;2023;38
+Ibiza;2024;37
+Ibiza;2025;37
+Isla Cristina;2006;183
+Isla Cristina;2007;179
+Isla Cristina;2008;172
+Isla Cristina;2009;161
+Isla Cristina;2010;162
+Isla Cristina;2011;160
+Isla Cristina;2012;158
+Isla Cristina;2013;164
+Isla Cristina;2014;167
+Isla Cristina;2015;170
+Isla Cristina;2016;171
+Isla Cristina;2017;172
+Isla Cristina;2018;171
+Isla Cristina;2019;170
+Isla Cristina;2020;170
+Isla Cristina;2021;175
+Isla Cristina;2022;175
+Isla Cristina;2023;178
+Isla Cristina;2024;177
+Isla Cristina;2025;182
+Isla de Arosa;2006;539
+Isla de Arosa;2007;524
+Isla de Arosa;2008;462
+Isla de Arosa;2009;454
+Isla de Arosa;2010;445
+Isla de Arosa;2011;441
+Isla de Arosa;2012;435
+Isla de Arosa;2013;426
+Isla de Arosa;2014;424
+Isla de Arosa;2015;423
+Isla de Arosa;2016;421
+Isla de Arosa;2017;418
+Isla de Arosa;2018;414
+Isla de Arosa;2019;410
+Isla de Arosa;2020;407
+Isla de Arosa;2021;399
+Isla de Arosa;2022;393
+Isla de Arosa;2023;390
+Isla de Arosa;2024;386
+Isla de Arosa;2025;378
+Isla de Tabarca;2006;8
+Isla de Tabarca;2007;7
+Isla de Tabarca;2008;8
+Isla de Tabarca;2009;8
+Isla de Tabarca;2010;7
+Isla de Tabarca;2011;7
+Isla de Tabarca;2012;7
+Isla de Tabarca;2013;5
+Isla de Tabarca;2014;4
+Isla de Tabarca;2015;5
+Isla de Tabarca;2016;5
+Isla de Tabarca;2017;7
+Isla de Tabarca;2018;7
+Isla de Tabarca;2019;7
+Isla de Tabarca;2020;7
+Isla de Tabarca;2021;7
+Isla de Tabarca;2022;9
+Isla de Tabarca;2023;10
+Isla de Tabarca;2024;10
+Isla de Tabarca;2025;10
+Javea;2006;17
+Javea;2007;17
+Javea;2008;18
+Javea;2009;20
+Javea;2010;20
+Javea;2011;19
+Javea;2012;18
+Javea;2013;18
+Javea;2014;18
+Javea;2015;18
+Javea;2016;19
+Javea;2017;19
+Javea;2018;19
+Javea;2019;19
+Javea;2020;18
+Javea;2021;18
+Javea;2022;16
+Javea;2023;15
+Javea;2024;12
+Javea;2025;12
+La Aldea;2006;7
+La Aldea;2007;6
+La Aldea;2008;3
+La Aldea;2009;3
+La Aldea;2010;3
+La Aldea;2011;3
+La Aldea;2012;2
+La Aldea;2013;2
+La Aldea;2014;2
+La Aldea;2015;1
+La Aldea;2016;1
+La Aldea;2017;1
+La Aldea;2018;1
+La Aldea;2019;1
+La Aldea;2020;1
+La Aldea;2021;1
+La Aldea;2022;1
+La Aldea;2023;1
+La Aldea;2024;1
+La Aldea;2025;1
+La Ametlla De Mar;2006;70
+La Ametlla De Mar;2007;71
+La Ametlla De Mar;2008;68
+La Ametlla De Mar;2009;64
+La Ametlla De Mar;2010;65
+La Ametlla De Mar;2011;64
+La Ametlla De Mar;2012;61
+La Ametlla De Mar;2013;58
+La Ametlla De Mar;2014;57
+La Ametlla De Mar;2015;58
+La Ametlla De Mar;2016;56
+La Ametlla De Mar;2017;53
+La Ametlla De Mar;2018;50
+La Ametlla De Mar;2019;49
+La Ametlla De Mar;2020;50
+La Ametlla De Mar;2021;46
+La Ametlla De Mar;2022;44
+La Ametlla De Mar;2023;45
+La Ametlla De Mar;2024;44
+La Ametlla De Mar;2025;46
+La Atunara;2023;1
+La Atunara;2024;1
+La Atunara;2025;1
+La Carihuela;2006;3
+La Carihuela;2007;3
+La Carihuela;2008;3
+La Carihuela;2009;3
+La Carihuela;2010;3
+La Carihuela;2011;3
+La Carihuela;2012;3
+La Carihuela;2013;3
+La Carihuela;2014;3
+La Carihuela;2015;3
+La Carihuela;2016;2
+La Carihuela;2017;2
+La Coruña;2006;186
+La Coruña;2007;180
+La Coruña;2008;125
+La Coruña;2009;122
+La Coruña;2010;119
+La Coruña;2011;116
+La Coruña;2012;116
+La Coruña;2013;113
+La Coruña;2014;108
+La Coruña;2015;105
+La Coruña;2016;104
+La Coruña;2017;99
+La Coruña;2018;97
+La Coruña;2019;95
+La Coruña;2020;93
+La Coruña;2021;95
+La Coruña;2022;93
+La Coruña;2023;89
+La Coruña;2024;91
+La Coruña;2025;88
+La Escala;2006;50
+La Escala;2007;49
+La Escala;2008;35
+La Escala;2009;32
+La Escala;2010;32
+La Escala;2011;28
+La Escala;2012;28
+La Escala;2013;27
+La Escala;2014;25
+La Escala;2015;24
+La Escala;2016;21
+La Escala;2017;19
+La Escala;2018;19
+La Escala;2019;17
+La Escala;2020;15
+La Escala;2021;15
+La Escala;2022;15
+La Escala;2023;14
+La Escala;2024;14
+La Escala;2025;14
+La Estaca;2006;7
+La Estaca;2007;7
+La Estaca;2008;9
+La Estaca;2009;11
+La Estaca;2010;10
+La Estaca;2011;10
+La Estaca;2012;10
+La Estaca;2013;9
+La Estaca;2014;9
+La Estaca;2015;8
+La Estaca;2016;8
+La Estaca;2017;7
+La Estaca;2018;9
+La Estaca;2019;9
+La Estaca;2020;9
+La Estaca;2021;9
+La Estaca;2022;9
+La Estaca;2023;7
+La Estaca;2024;7
+La Estaca;2025;8
+La Guardia;2006;139
+La Guardia;2007;135
+La Guardia;2008;108
+La Guardia;2009;107
+La Guardia;2010;106
+La Guardia;2011;101
+La Guardia;2012;97
+La Guardia;2013;96
+La Guardia;2014;85
+La Guardia;2015;82
+La Guardia;2016;78
+La Guardia;2017;75
+La Guardia;2018;71
+La Guardia;2019;71
+La Guardia;2020;68
+La Guardia;2021;71
+La Guardia;2022;73
+La Guardia;2023;73
+La Guardia;2024;73
+La Guardia;2025;71
+La Linea de la Concepción;2006;112
+La Linea de la Concepción;2007;107
+La Linea de la Concepción;2008;97
+La Linea de la Concepción;2009;96
+La Linea de la Concepción;2010;89
+La Linea de la Concepción;2011;85
+La Linea de la Concepción;2012;80
+La Linea de la Concepción;2013;77
+La Linea de la Concepción;2014;74
+La Linea de la Concepción;2015;68
+La Linea de la Concepción;2016;64
+La Linea de la Concepción;2017;60
+La Linea de la Concepción;2018;55
+La Linea de la Concepción;2019;54
+La Linea de la Concepción;2020;55
+La Linea de la Concepción;2021;53
+La Linea de la Concepción;2022;51
+La Linea de la Concepción;2023;46
+La Linea de la Concepción;2024;47
+La Linea de la Concepción;2025;43
+La Puebla del Caramiñal;2006;154
+La Puebla del Caramiñal;2007;150
+La Puebla del Caramiñal;2008;126
+La Puebla del Caramiñal;2009;124
+La Puebla del Caramiñal;2010;120
+La Puebla del Caramiñal;2011;121
+La Puebla del Caramiñal;2012;116
+La Puebla del Caramiñal;2013;109
+La Puebla del Caramiñal;2014;106
+La Puebla del Caramiñal;2015;100
+La Puebla del Caramiñal;2016;96
+La Puebla del Caramiñal;2017;94
+La Puebla del Caramiñal;2018;86
+La Puebla del Caramiñal;2019;83
+La Puebla del Caramiñal;2020;82
+La Puebla del Caramiñal;2021;79
+La Puebla del Caramiñal;2022;79
+La Puebla del Caramiñal;2023;77
+La Puebla del Caramiñal;2024;76
+La Puebla del Caramiñal;2025;72
+La Restinga;2006;47
+La Restinga;2007;48
+La Restinga;2008;41
+La Restinga;2009;42
+La Restinga;2010;41
+La Restinga;2011;38
+La Restinga;2012;32
+La Restinga;2013;33
+La Restinga;2014;30
+La Restinga;2015;32
+La Restinga;2016;33
+La Restinga;2017;34
+La Restinga;2018;33
+La Restinga;2019;32
+La Restinga;2020;33
+La Restinga;2021;33
+La Restinga;2022;33
+La Restinga;2023;33
+La Restinga;2024;30
+La Restinga;2025;31
+Lage;2006;56
+Lage;2007;57
+Lage;2008;55
+Lage;2009;50
+Lage;2010;47
+Lage;2011;46
+Lage;2012;42
+Lage;2013;41
+Lage;2014;40
+Lage;2015;41
+Lage;2016;44
+Lage;2017;42
+Lage;2018;39
+Lage;2019;39
+Lage;2020;38
+Lage;2021;40
+Lage;2022;40
+Lage;2023;39
+Lage;2024;39
+Lage;2025;40
+Laredo;2006;25
+Laredo;2007;23
+Laredo;2008;23
+Laredo;2009;23
+Laredo;2010;22
+Laredo;2011;19
+Laredo;2012;19
+Laredo;2013;20
+Laredo;2014;20
+Laredo;2015;20
+Laredo;2016;20
+Laredo;2017;19
+Laredo;2018;19
+Laredo;2019;16
+Laredo;2020;15
+Laredo;2021;16
+Laredo;2022;15
+Laredo;2023;14
+Laredo;2024;14
+Laredo;2025;14
+Las Galletas;2006;18
+Las Galletas;2007;20
+Las Galletas;2008;20
+Las Galletas;2009;20
+Las Galletas;2010;21
+Las Galletas;2011;19
+Las Galletas;2012;18
+Las Galletas;2013;18
+Las Galletas;2014;18
+Las Galletas;2015;17
+Las Galletas;2016;18
+Las Galletas;2017;21
+Las Galletas;2018;19
+Las Galletas;2019;16
+Las Galletas;2020;17
+Las Galletas;2021;16
+Las Galletas;2022;16
+Las Galletas;2023;16
+Las Galletas;2024;16
+Las Galletas;2025;15
+Las Palmas - Puerto de la Luz;2006;153
+Las Palmas - Puerto de la Luz;2007;146
+Las Palmas - Puerto de la Luz;2008;115
+Las Palmas - Puerto de la Luz;2009;100
+Las Palmas - Puerto de la Luz;2010;94
+Las Palmas - Puerto de la Luz;2011;89
+Las Palmas - Puerto de la Luz;2012;78
+Las Palmas - Puerto de la Luz;2013;71
+Las Palmas - Puerto de la Luz;2014;72
+Las Palmas - Puerto de la Luz;2015;67
+Las Palmas - Puerto de la Luz;2016;61
+Las Palmas - Puerto de la Luz;2017;58
+Las Palmas - Puerto de la Luz;2018;53
+Las Palmas - Puerto de la Luz;2019;51
+Las Palmas - Puerto de la Luz;2020;50
+Las Palmas - Puerto de la Luz;2021;47
+Las Palmas - Puerto de la Luz;2022;45
+Las Palmas - Puerto de la Luz;2023;44
+Las Palmas - Puerto de la Luz;2024;42
+Las Palmas - Puerto de la Luz;2025;38
+Lastres;2006;22
+Lastres;2007;21
+Lastres;2008;19
+Lastres;2009;16
+Lastres;2010;14
+Lastres;2011;15
+Lastres;2012;16
+Lastres;2013;14
+Lastres;2014;16
+Lastres;2015;18
+Lastres;2016;17
+Lastres;2017;16
+Lastres;2018;19
+Lastres;2019;21
+Lastres;2020;21
+Lastres;2021;20
+Lastres;2022;21
+Lastres;2023;18
+Lastres;2024;15
+Lastres;2025;13
+Lepe;2006;82
+Lepe;2007;80
+Lepe;2008;76
+Lepe;2009;79
+Lepe;2010;86
+Lepe;2011;88
+Lepe;2012;85
+Lepe;2013;83
+Lepe;2014;80
+Lepe;2015;76
+Lepe;2016;72
+Lepe;2017;67
+Lepe;2018;67
+Lepe;2019;65
+Lepe;2020;65
+Lepe;2021;64
+Lepe;2022;64
+Lepe;2023;62
+Lepe;2024;62
+Lepe;2025;59
+Lequeitio;2006;16
+Lequeitio;2007;16
+Lequeitio;2008;12
+Lequeitio;2009;12
+Lequeitio;2010;11
+Lequeitio;2011;12
+Lequeitio;2012;12
+Lequeitio;2013;10
+Lequeitio;2014;10
+Lequeitio;2015;9
+Lequeitio;2016;9
+Lequeitio;2017;9
+Lequeitio;2018;10
+Lequeitio;2019;9
+Lequeitio;2020;8
+Lequeitio;2021;8
+Lequeitio;2022;7
+Lequeitio;2023;7
+Lequeitio;2024;6
+Lequeitio;2025;6
+Lira-Carnota;2006;34
+Lira-Carnota;2007;31
+Lira-Carnota;2008;33
+Lira-Carnota;2009;32
+Lira-Carnota;2010;31
+Lira-Carnota;2011;29
+Lira-Carnota;2012;27
+Lira-Carnota;2013;29
+Lira-Carnota;2014;28
+Lira-Carnota;2015;27
+Lira-Carnota;2016;27
+Lira-Carnota;2017;25
+Lira-Carnota;2018;24
+Lira-Carnota;2019;24
+Lira-Carnota;2020;24
+Lira-Carnota;2021;25
+Lira-Carnota;2022;25
+Lira-Carnota;2023;28
+Lira-Carnota;2024;28
+Lira-Carnota;2025;28
+Llanes;2006;10
+Llanes;2007;11
+Llanes;2008;11
+Llanes;2009;11
+Llanes;2010;9
+Llanes;2011;9
+Llanes;2012;9
+Llanes;2013;7
+Llanes;2014;6
+Llanes;2015;7
+Llanes;2016;7
+Llanes;2017;8
+Llanes;2018;8
+Llanes;2019;9
+Llanes;2020;9
+Llanes;2021;8
+Llanes;2022;9
+Llanes;2023;10
+Llanes;2024;10
+Llanes;2025;10
+Llansa;2006;31
+Llansa;2007;32
+Llansa;2008;27
+Llansa;2009;26
+Llansa;2010;27
+Llansa;2011;25
+Llansa;2012;24
+Llansa;2013;24
+Llansa;2014;23
+Llansa;2015;20
+Llansa;2016;20
+Llansa;2017;20
+Llansa;2018;18
+Llansa;2019;16
+Llansa;2020;17
+Llansa;2021;16
+Llansa;2022;15
+Llansa;2023;14
+Llansa;2024;14
+Llansa;2025;13
+Lloret de Mar;2006;9
+Lloret de Mar;2007;9
+Lloret de Mar;2008;7
+Lloret de Mar;2009;6
+Lloret de Mar;2010;6
+Lloret de Mar;2011;5
+Lloret de Mar;2012;5
+Lloret de Mar;2013;4
+Lloret de Mar;2014;4
+Lloret de Mar;2015;4
+Lloret de Mar;2016;4
+Lloret de Mar;2017;3
+Lloret de Mar;2018;3
+Lloret de Mar;2019;3
+Lloret de Mar;2020;4
+Lloret de Mar;2021;4
+Lloret de Mar;2022;3
+Lloret de Mar;2023;3
+Lloret de Mar;2024;3
+Lloret de Mar;2025;3
+Lorbe;2006;17
+Lorbe;2007;16
+Lorbe;2008;15
+Lorbe;2009;16
+Lorbe;2010;16
+Lorbe;2011;14
+Lorbe;2012;14
+Lorbe;2013;13
+Lorbe;2014;13
+Lorbe;2015;12
+Lorbe;2016;12
+Lorbe;2017;12
+Lorbe;2018;14
+Lorbe;2019;14
+Lorbe;2020;14
+Lorbe;2021;14
+Lorbe;2022;13
+Lorbe;2023;11
+Lorbe;2024;11
+Lorbe;2025;10
+Los Abrigos;2010;4
+Los Abrigos;2011;5
+Los Abrigos;2012;7
+Los Abrigos;2013;7
+Los Abrigos;2014;7
+Los Abrigos;2015;7
+Los Abrigos;2016;10
+Los Abrigos;2017;10
+Los Abrigos;2018;11
+Los Abrigos;2019;11
+Los Abrigos;2020;10
+Los Abrigos;2021;10
+Los Abrigos;2022;9
+Los Abrigos;2023;9
+Los Abrigos;2024;7
+Los Abrigos;2025;6
+Los Cristianos;2006;49
+Los Cristianos;2007;48
+Los Cristianos;2008;43
+Los Cristianos;2009;35
+Los Cristianos;2010;33
+Los Cristianos;2011;32
+Los Cristianos;2012;31
+Los Cristianos;2013;28
+Los Cristianos;2014;29
+Los Cristianos;2015;26
+Los Cristianos;2016;26
+Los Cristianos;2017;26
+Los Cristianos;2018;25
+Los Cristianos;2019;25
+Los Cristianos;2020;25
+Los Cristianos;2021;24
+Los Cristianos;2022;25
+Los Cristianos;2023;24
+Los Cristianos;2024;23
+Los Cristianos;2025;22
+Luanco;2006;28
+Luanco;2007;27
+Luanco;2008;25
+Luanco;2009;24
+Luanco;2010;23
+Luanco;2011;25
+Luanco;2012;25
+Luanco;2013;24
+Luanco;2014;25
+Luanco;2015;24
+Luanco;2016;21
+Luanco;2017;21
+Luanco;2018;20
+Luanco;2019;20
+Luanco;2020;21
+Luanco;2021;20
+Luanco;2022;22
+Luanco;2023;24
+Luanco;2024;23
+Luanco;2025;25
+Luarca;2006;40
+Luarca;2007;40
+Luarca;2008;43
+Luarca;2009;41
+Luarca;2010;39
+Luarca;2011;38
+Luarca;2012;36
+Luarca;2013;35
+Luarca;2014;32
+Luarca;2015;29
+Luarca;2016;29
+Luarca;2017;26
+Luarca;2018;25
+Luarca;2019;24
+Luarca;2020;23
+Luarca;2021;25
+Luarca;2022;25
+Luarca;2023;26
+Luarca;2024;27
+Luarca;2025;27
+Mahón;2006;52
+Mahón;2007;51
+Mahón;2008;51
+Mahón;2009;52
+Mahón;2010;51
+Mahón;2011;52
+Mahón;2012;44
+Mahón;2013;46
+Mahón;2014;38
+Mahón;2015;36
+Mahón;2016;34
+Mahón;2017;32
+Mahón;2018;28
+Mahón;2019;28
+Mahón;2020;26
+Mahón;2021;22
+Mahón;2022;21
+Mahón;2023;20
+Mahón;2024;20
+Mahón;2025;18
+Malgrat;2006;2
+Malgrat;2007;2
+Malgrat;2008;1
+Malgrat;2009;1
+Malgrat;2010;1
+Malgrat;2011;1
+Malgrat;2012;1
+Malgrat;2013;1
+Malgrat;2014;1
+Malgrat;2015;1
+Malgrat;2016;1
+Malgrat;2017;1
+Malgrat;2018;1
+Malgrat;2019;1
+Malpica de Bergantiños;2006;83
+Malpica de Bergantiños;2007;80
+Malpica de Bergantiños;2008;72
+Malpica de Bergantiños;2009;71
+Malpica de Bergantiños;2010;68
+Malpica de Bergantiños;2011;67
+Malpica de Bergantiños;2012;63
+Malpica de Bergantiños;2013;67
+Malpica de Bergantiños;2014;67
+Malpica de Bergantiños;2015;65
+Malpica de Bergantiños;2016;64
+Malpica de Bergantiños;2017;61
+Malpica de Bergantiños;2018;60
+Malpica de Bergantiños;2019;61
+Malpica de Bergantiños;2020;58
+Malpica de Bergantiños;2021;57
+Malpica de Bergantiños;2022;56
+Malpica de Bergantiños;2023;54
+Malpica de Bergantiños;2024;51
+Malpica de Bergantiños;2025;48
+Marbella;2006;50
+Marbella;2007;49
+Marbella;2008;45
+Marbella;2009;44
+Marbella;2010;41
+Marbella;2011;42
+Marbella;2012;43
+Marbella;2013;41
+Marbella;2014;42
+Marbella;2015;44
+Marbella;2016;41
+Marbella;2017;39
+Marbella;2018;39
+Marbella;2019;40
+Marbella;2020;42
+Marbella;2021;42
+Marbella;2022;44
+Marbella;2023;46
+Marbella;2024;46
+Marbella;2025;50
+Marin;2006;93
+Marin;2007;85
+Marin;2008;78
+Marin;2009;77
+Marin;2010;70
+Marin;2011;57
+Marin;2012;56
+Marin;2013;53
+Marin;2014;46
+Marin;2015;50
+Marin;2016;48
+Marin;2017;47
+Marin;2018;45
+Marin;2019;42
+Marin;2020;41
+Marin;2021;41
+Marin;2022;40
+Marin;2023;37
+Marin;2024;38
+Marin;2025;38
+Mataró;2006;28
+Mataró;2007;26
+Mataró;2008;24
+Mataró;2009;22
+Mataró;2010;24
+Mataró;2011;20
+Mataró;2012;12
+Mataró;2013;10
+Mataró;2014;9
+Mataró;2015;8
+Mataró;2016;8
+Mataró;2017;8
+Mataró;2018;7
+Mataró;2019;7
+Mataró;2020;7
+Mataró;2021;7
+Mataró;2022;8
+Mataró;2023;7
+Mataró;2024;6
+Mataró;2025;7
+Mazarron;2006;55
+Mazarron;2007;55
+Mazarron;2008;43
+Mazarron;2009;44
+Mazarron;2010;42
+Mazarron;2011;42
+Mazarron;2012;42
+Mazarron;2013;38
+Mazarron;2014;35
+Mazarron;2015;35
+Mazarron;2016;33
+Mazarron;2017;33
+Mazarron;2018;33
+Mazarron;2019;33
+Mazarron;2020;34
+Mazarron;2021;33
+Mazarron;2022;34
+Mazarron;2023;34
+Mazarron;2024;31
+Mazarron;2025;31
+Meira;2006;4
+Meira;2007;4
+Meira;2008;4
+Meira;2009;4
+Meira;2010;3
+Meira;2011;3
+Meira;2012;3
+Meira;2013;2
+Meira;2014;2
+Meira;2015;2
+Meira;2016;2
+Meira;2017;3
+Meira;2018;2
+Meira;2019;2
+Meira;2020;2
+Meira;2021;2
+Meira;2022;2
+Meira;2023;2
+Meira;2024;3
+Meira;2025;4
+Melilla;2006;14
+Melilla;2007;11
+Melilla;2008;3
+Melilla;2009;1
+Mera-Oleiros;2006;8
+Mera-Oleiros;2007;8
+Mera-Oleiros;2008;9
+Mera-Oleiros;2009;9
+Mera-Oleiros;2010;9
+Mera-Oleiros;2011;8
+Mera-Oleiros;2012;6
+Mera-Oleiros;2013;8
+Mera-Oleiros;2014;6
+Mera-Oleiros;2015;7
+Mera-Oleiros;2016;7
+Mera-Oleiros;2017;6
+Mera-Oleiros;2018;4
+Mera-Oleiros;2019;4
+Mera-Oleiros;2020;4
+Mera-Oleiros;2021;4
+Mera-Oleiros;2022;4
+Mera-Oleiros;2023;3
+Mera-Oleiros;2024;3
+Mera-Oleiros;2025;3
+Miño;2006;14
+Miño;2007;13
+Miño;2008;14
+Miño;2009;13
+Miño;2010;12
+Miño;2011;12
+Miño;2012;6
+Miño;2013;6
+Miño;2014;6
+Miño;2015;6
+Miño;2016;6
+Miño;2017;7
+Miño;2018;6
+Miño;2019;5
+Miño;2020;5
+Miño;2021;6
+Miño;2022;7
+Miño;2023;7
+Miño;2024;7
+Miño;2025;7
+Moaña;2006;153
+Moaña;2007;151
+Moaña;2008;139
+Moaña;2009;136
+Moaña;2010;132
+Moaña;2011;129
+Moaña;2012;121
+Moaña;2013;116
+Moaña;2014;114
+Moaña;2015;113
+Moaña;2016;110
+Moaña;2017;107
+Moaña;2018;106
+Moaña;2019;104
+Moaña;2020;100
+Moaña;2021;97
+Moaña;2022;92
+Moaña;2023;88
+Moaña;2024;83
+Moaña;2025;80
+Mogán;2006;24
+Mogán;2007;24
+Mogán;2008;22
+Mogán;2009;21
+Mogán;2010;20
+Mogán;2011;20
+Mogán;2012;20
+Mogán;2013;20
+Mogán;2014;20
+Mogán;2015;18
+Mogán;2016;17
+Mogán;2017;16
+Mogán;2018;16
+Mogán;2019;17
+Mogán;2020;16
+Mogán;2021;16
+Mogán;2022;15
+Mogán;2023;16
+Mogán;2024;17
+Mogán;2025;16
+Montgat;2006;45
+Montgat;2007;44
+Montgat;2008;39
+Montgat;2009;39
+Montgat;2010;33
+Montgat;2011;30
+Montgat;2012;25
+Montgat;2013;21
+Montgat;2014;20
+Montgat;2015;13
+Montgat;2016;3
+Montgat;2017;1
+Montgat;2018;1
+Montgat;2019;1
+Moraira;2006;10
+Moraira;2007;10
+Moraira;2008;10
+Moraira;2009;10
+Moraira;2010;10
+Moraira;2011;8
+Moraira;2012;5
+Moraira;2013;5
+Moraira;2014;6
+Moraira;2015;6
+Moraira;2016;4
+Moraira;2017;3
+Moraira;2018;3
+Moraira;2019;3
+Moraira;2020;3
+Moraira;2021;3
+Moraira;2022;3
+Moraira;2023;3
+Moraira;2024;3
+Moraira;2025;3
+Morro Jable;2006;14
+Morro Jable;2007;15
+Morro Jable;2008;27
+Morro Jable;2009;30
+Morro Jable;2010;30
+Morro Jable;2011;29
+Morro Jable;2012;25
+Morro Jable;2013;25
+Morro Jable;2014;25
+Morro Jable;2015;22
+Morro Jable;2016;21
+Morro Jable;2017;21
+Morro Jable;2018;18
+Morro Jable;2019;15
+Morro Jable;2020;14
+Morro Jable;2021;15
+Morro Jable;2022;15
+Morro Jable;2023;16
+Morro Jable;2024;14
+Morro Jable;2025;17
+Motrico;2006;3
+Motrico;2007;3
+Motrico;2008;3
+Motrico;2009;3
+Motrico;2010;3
+Motrico;2011;3
+Motrico;2012;2
+Motrico;2013;2
+Motrico;2014;3
+Motrico;2015;2
+Motrico;2016;3
+Motrico;2017;3
+Motrico;2018;3
+Motrico;2019;2
+Motrico;2020;2
+Motrico;2021;2
+Motrico;2022;2
+Motrico;2023;2
+Motrico;2024;2
+Motrico;2025;1
+Motril;2006;55
+Motril;2007;53
+Motril;2008;47
+Motril;2009;38
+Motril;2010;38
+Motril;2011;33
+Motril;2012;34
+Motril;2013;34
+Motril;2014;29
+Motril;2015;30
+Motril;2016;32
+Motril;2017;39
+Motril;2018;34
+Motril;2019;33
+Motril;2020;31
+Motril;2021;30
+Motril;2022;32
+Motril;2023;31
+Motril;2024;31
+Motril;2025;31
+Mugardos;2006;11
+Mugardos;2007;9
+Mugardos;2008;8
+Mugardos;2009;8
+Mugardos;2010;9
+Mugardos;2011;8
+Mugardos;2012;8
+Mugardos;2013;8
+Mugardos;2014;7
+Mugardos;2015;9
+Mugardos;2016;9
+Mugardos;2017;8
+Mugardos;2018;7
+Mugardos;2019;7
+Mugardos;2020;7
+Mugardos;2021;8
+Mugardos;2022;7
+Mugardos;2023;7
+Mugardos;2024;7
+Mugardos;2025;7
+Mugia;2006;60
+Mugia;2007;57
+Mugia;2008;43
+Mugia;2009;42
+Mugia;2010;40
+Mugia;2011;40
+Mugia;2012;34
+Mugia;2013;33
+Mugia;2014;30
+Mugia;2015;30
+Mugia;2016;32
+Mugia;2017;31
+Mugia;2018;31
+Mugia;2019;33
+Mugia;2020;35
+Mugia;2021;34
+Mugia;2022;34
+Mugia;2023;32
+Mugia;2024;33
+Mugia;2025;31
+Mundaca;2006;1
+Mundaca;2007;1
+Mundaca;2008;1
+Mundaca;2009;1
+Mundaca;2010;2
+Mundaca;2011;2
+Mundaca;2012;2
+Mundaca;2013;4
+Mundaca;2014;3
+Mundaca;2015;3
+Mundaca;2016;2
+Mundaca;2017;2
+Mundaca;2018;1
+Mundaca;2019;1
+Muros;2006;97
+Muros;2007;89
+Muros;2008;87
+Muros;2009;86
+Muros;2010;86
+Muros;2011;85
+Muros;2012;83
+Muros;2013;78
+Muros;2014;77
+Muros;2015;74
+Muros;2016;74
+Muros;2017;73
+Muros;2018;75
+Muros;2019;73
+Muros;2020;69
+Muros;2021;64
+Muros;2022;60
+Muros;2023;60
+Muros;2024;58
+Muros;2025;57
+Málaga;2006;87
+Málaga;2007;80
+Málaga;2008;60
+Málaga;2009;56
+Málaga;2010;42
+Málaga;2011;38
+Málaga;2012;30
+Málaga;2013;30
+Málaga;2014;29
+Málaga;2015;29
+Málaga;2016;29
+Málaga;2017;29
+Málaga;2018;28
+Málaga;2019;26
+Málaga;2020;24
+Málaga;2021;24
+Málaga;2022;22
+Málaga;2023;20
+Málaga;2024;21
+Málaga;2025;18
+Niembro;2006;1
+Niembro;2007;1
+Niembro;2008;1
+Noia;2006;560
+Noia;2007;548
+Noia;2008;434
+Noia;2009;432
+Noia;2010;431
+Noia;2011;431
+Noia;2012;431
+Noia;2013;440
+Noia;2014;447
+Noia;2015;447
+Noia;2016;446
+Noia;2017;450
+Noia;2018;456
+Noia;2019;459
+Noia;2020;460
+Noia;2021;457
+Noia;2022;463
+Noia;2023;463
+Noia;2024;458
+Noia;2025;462
+O Freixo;2023;2
+O Freixo;2024;2
+O Freixo;2025;3
+Ondarroa;2006;42
+Ondarroa;2007;40
+Ondarroa;2008;36
+Ondarroa;2009;34
+Ondarroa;2010;32
+Ondarroa;2011;30
+Ondarroa;2012;26
+Ondarroa;2013;24
+Ondarroa;2014;24
+Ondarroa;2015;24
+Ondarroa;2016;24
+Ondarroa;2017;26
+Ondarroa;2018;25
+Ondarroa;2019;25
+Ondarroa;2020;25
+Ondarroa;2021;25
+Ondarroa;2022;23
+Ondarroa;2023;25
+Ondarroa;2024;24
+Ondarroa;2025;22
+Orio;2006;11
+Orio;2007;11
+Orio;2008;8
+Orio;2009;8
+Orio;2010;7
+Orio;2011;7
+Orio;2012;7
+Orio;2013;6
+Orio;2014;6
+Orio;2015;6
+Orio;2016;6
+Orio;2017;6
+Orio;2018;6
+Orio;2019;5
+Orio;2020;4
+Orio;2021;4
+Orio;2022;5
+Orio;2023;5
+Orio;2024;3
+Orio;2025;5
+Ortiguera;2006;5
+Ortiguera;2007;4
+Ortiguera;2008;4
+Ortiguera;2009;3
+Ortiguera;2010;4
+Ortiguera;2011;4
+Ortiguera;2012;4
+Ortiguera;2013;4
+Ortiguera;2014;4
+Ortiguera;2015;4
+Ortiguera;2016;4
+Ortiguera;2017;5
+Ortiguera;2018;4
+Ortiguera;2019;4
+Ortiguera;2020;4
+Ortiguera;2021;4
+Ortiguera;2022;5
+Ortiguera;2023;5
+Ortiguera;2024;4
+Ortiguera;2025;4
+Orzola;2011;1
+Orzola;2012;2
+Orzola;2013;2
+Orzola;2014;2
+Orzola;2015;2
+Orzola;2016;2
+Orzola;2017;2
+Orzola;2018;2
+Orzola;2019;3
+Orzola;2020;3
+Orzola;2021;3
+Orzola;2022;3
+Orzola;2023;3
+Orzola;2024;17
+Orzola;2025;19
+Oviñana;2006;12
+Oviñana;2007;13
+Oviñana;2008;10
+Oviñana;2009;10
+Oviñana;2010;9
+Oviñana;2011;8
+Oviñana;2012;10
+Oviñana;2013;10
+Oviñana;2014;10
+Oviñana;2015;10
+Oviñana;2016;9
+Oviñana;2017;9
+Oviñana;2018;9
+Oviñana;2019;10
+Oviñana;2020;9
+Oviñana;2021;7
+Oviñana;2022;7
+Oviñana;2023;6
+Oviñana;2024;6
+Oviñana;2025;7
+Palamós;2006;95
+Palamós;2007;91
+Palamós;2008;78
+Palamós;2009;77
+Palamós;2010;72
+Palamós;2011;69
+Palamós;2012;65
+Palamós;2013;64
+Palamós;2014;56
+Palamós;2015;54
+Palamós;2016;52
+Palamós;2017;52
+Palamós;2018;51
+Palamós;2019;50
+Palamós;2020;50
+Palamós;2021;48
+Palamós;2022;46
+Palamós;2023;49
+Palamós;2024;45
+Palamós;2025;42
+Palma de Mallorca;2006;55
+Palma de Mallorca;2007;55
+Palma de Mallorca;2008;46
+Palma de Mallorca;2009;47
+Palma de Mallorca;2010;44
+Palma de Mallorca;2011;40
+Palma de Mallorca;2012;41
+Palma de Mallorca;2013;38
+Palma de Mallorca;2014;38
+Palma de Mallorca;2015;37
+Palma de Mallorca;2016;37
+Palma de Mallorca;2017;35
+Palma de Mallorca;2018;33
+Palma de Mallorca;2019;30
+Palma de Mallorca;2020;30
+Palma de Mallorca;2021;27
+Palma de Mallorca;2022;24
+Palma de Mallorca;2023;23
+Palma de Mallorca;2024;23
+Palma de Mallorca;2025;25
+Palmeira;2006;27
+Palmeira;2007;26
+Palmeira;2008;24
+Palmeira;2009;23
+Palmeira;2010;23
+Palmeira;2011;18
+Palmeira;2012;19
+Palmeira;2013;17
+Palmeira;2014;17
+Palmeira;2015;16
+Palmeira;2016;17
+Palmeira;2017;17
+Palmeira;2018;17
+Palmeira;2019;15
+Palmeira;2020;15
+Palmeira;2021;15
+Palmeira;2022;15
+Palmeira;2023;16
+Palmeira;2024;16
+Palmeira;2025;16
+Palos De La Frontera;2006;5
+Palos De La Frontera;2007;5
+Palos De La Frontera;2008;5
+Palos De La Frontera;2009;4
+Palos De La Frontera;2010;4
+Palos De La Frontera;2011;4
+Palos De La Frontera;2012;4
+Palos De La Frontera;2013;3
+Palos De La Frontera;2014;3
+Palos De La Frontera;2015;3
+Palos De La Frontera;2016;4
+Palos De La Frontera;2017;4
+Palos De La Frontera;2018;4
+Palos De La Frontera;2019;5
+Palos De La Frontera;2020;4
+Palos De La Frontera;2021;4
+Palos De La Frontera;2022;3
+Palos De La Frontera;2023;3
+Palos De La Frontera;2024;3
+Palos De La Frontera;2025;3
+Panjón;2006;9
+Panjón;2007;9
+Panjón;2008;10
+Panjón;2009;10
+Panjón;2010;9
+Panjón;2011;8
+Panjón;2012;8
+Panjón;2013;8
+Panjón;2014;8
+Panjón;2015;9
+Panjón;2016;8
+Panjón;2017;6
+Panjón;2018;6
+Panjón;2019;6
+Panjón;2020;6
+Panjón;2021;6
+Panjón;2022;5
+Panjón;2023;5
+Panjón;2024;5
+Panjón;2025;4
+Pasajes;2006;23
+Pasajes;2007;24
+Pasajes;2008;23
+Pasajes;2009;23
+Pasajes;2010;24
+Pasajes;2011;22
+Pasajes;2012;21
+Pasajes;2013;20
+Pasajes;2014;19
+Pasajes;2015;18
+Pasajes;2016;20
+Pasajes;2017;20
+Pasajes;2018;19
+Pasajes;2019;18
+Pasajes;2020;20
+Pasajes;2021;20
+Pasajes;2022;20
+Pasajes;2023;18
+Pasajes;2024;20
+Pasajes;2025;16
+Peñíscola;2006;50
+Peñíscola;2007;49
+Peñíscola;2008;47
+Peñíscola;2009;48
+Peñíscola;2010;48
+Peñíscola;2011;45
+Peñíscola;2012;45
+Peñíscola;2013;44
+Peñíscola;2014;45
+Peñíscola;2015;44
+Peñíscola;2016;43
+Peñíscola;2017;41
+Peñíscola;2018;38
+Peñíscola;2019;41
+Peñíscola;2020;39
+Peñíscola;2021;37
+Peñíscola;2022;33
+Peñíscola;2023;32
+Peñíscola;2024;31
+Peñíscola;2025;30
+Pineda;2006;2
+Pineda;2007;2
+Pineda;2008;1
+Pineda;2009;1
+Pineda;2010;1
+Pineda;2011;1
+Pineda;2012;1
+Pineda;2013;1
+Pineda;2014;1
+Pineda;2015;1
+Pineda;2016;1
+Pineda;2017;1
+Pineda;2018;1
+Pineda;2019;1
+Playa Blanca;2006;3
+Playa Blanca;2007;8
+Playa Blanca;2008;9
+Playa Blanca;2009;14
+Playa Blanca;2010;14
+Playa Blanca;2011;15
+Playa Blanca;2012;15
+Playa Blanca;2013;14
+Playa Blanca;2014;16
+Playa Blanca;2015;15
+Playa Blanca;2016;15
+Playa Blanca;2017;16
+Playa Blanca;2018;16
+Playa Blanca;2019;17
+Playa Blanca;2020;17
+Playa Blanca;2021;18
+Playa Blanca;2022;18
+Playa Blanca;2023;18
+Playa Blanca;2024;19
+Playa Blanca;2025;18
+Playa San Juan - Guia Isora;2006;24
+Playa San Juan - Guia Isora;2007;23
+Playa San Juan - Guia Isora;2008;18
+Playa San Juan - Guia Isora;2009;22
+Playa San Juan - Guia Isora;2010;19
+Playa San Juan - Guia Isora;2011;21
+Playa San Juan - Guia Isora;2012;29
+Playa San Juan - Guia Isora;2013;31
+Playa San Juan - Guia Isora;2014;29
+Playa San Juan - Guia Isora;2015;26
+Playa San Juan - Guia Isora;2016;24
+Playa San Juan - Guia Isora;2017;27
+Playa San Juan - Guia Isora;2018;26
+Playa San Juan - Guia Isora;2019;28
+Playa San Juan - Guia Isora;2020;26
+Playa San Juan - Guia Isora;2021;28
+Playa San Juan - Guia Isora;2022;30
+Playa San Juan - Guia Isora;2023;30
+Playa San Juan - Guia Isora;2024;25
+Playa San Juan - Guia Isora;2025;23
+Playa San Marcos;2006;30
+Playa San Marcos;2007;27
+Playa San Marcos;2008;25
+Playa San Marcos;2009;25
+Playa San Marcos;2010;23
+Playa San Marcos;2011;24
+Playa San Marcos;2012;21
+Playa San Marcos;2013;21
+Playa San Marcos;2014;22
+Playa San Marcos;2015;21
+Playa San Marcos;2016;22
+Playa San Marcos;2017;19
+Playa San Marcos;2018;18
+Playa San Marcos;2019;15
+Playa San Marcos;2020;14
+Playa San Marcos;2021;8
+Playa San Marcos;2022;7
+Playa San Marcos;2023;7
+Playa San Marcos;2024;5
+Playa San Marcos;2025;5
+Playa de Santiago;2009;10
+Playa de Santiago;2010;10
+Playa de Santiago;2011;7
+Playa de Santiago;2012;7
+Playa de Santiago;2013;5
+Playa de Santiago;2014;5
+Playa de Santiago;2015;5
+Playa de Santiago;2016;4
+Playa de Santiago;2017;3
+Playa de Santiago;2018;3
+Playa de Santiago;2019;4
+Playa de Santiago;2020;5
+Playa de Santiago;2021;5
+Playa de Santiago;2022;5
+Playa de Santiago;2023;5
+Playa de Santiago;2024;6
+Playa de Santiago;2025;7
+Plencia;2006;10
+Plencia;2007;11
+Plencia;2008;10
+Plencia;2009;9
+Plencia;2010;9
+Plencia;2011;8
+Plencia;2012;7
+Plencia;2013;6
+Plencia;2014;5
+Plencia;2015;4
+Plencia;2016;4
+Plencia;2017;4
+Plencia;2018;3
+Plencia;2019;2
+Plencia;2020;2
+Plencia;2021;3
+Plencia;2022;3
+Plencia;2023;4
+Plencia;2024;6
+Plencia;2025;5
+Pollensa;2006;19
+Pollensa;2007;20
+Pollensa;2008;21
+Pollensa;2009;20
+Pollensa;2010;17
+Pollensa;2011;17
+Pollensa;2012;17
+Pollensa;2013;16
+Pollensa;2014;15
+Pollensa;2015;16
+Pollensa;2016;15
+Pollensa;2017;13
+Pollensa;2018;11
+Pollensa;2019;12
+Pollensa;2020;11
+Pollensa;2021;13
+Pollensa;2022;13
+Pollensa;2023;14
+Pollensa;2024;14
+Pollensa;2025;13
+Pontecesures;2010;1
+Pontecesures;2011;1
+Pontecesures;2012;1
+Pontecesures;2013;1
+Pontecesures;2014;1
+Pontecesures;2015;1
+Pontecesures;2016;1
+Pontecesures;2017;1
+Pontecesures;2018;1
+Pontecesures;2019;1
+Pontecesures;2020;1
+Pontecesures;2021;1
+Pontecesures;2022;1
+Pontecesures;2023;1
+Pontecesures;2024;1
+Pontecesures;2025;1
+Pontevedra;2006;49
+Pontevedra;2007;49
+Pontevedra;2008;30
+Pontevedra;2009;28
+Pontevedra;2010;27
+Pontevedra;2011;22
+Pontevedra;2012;19
+Pontevedra;2013;17
+Pontevedra;2014;14
+Pontevedra;2015;13
+Pontevedra;2016;8
+Pontevedra;2017;3
+Pontevedra;2018;2
+Pontevedra;2019;2
+Pontevedra;2020;2
+Pontevedra;2021;1
+Pontevedra;2022;1
+Pontevedra;2023;1
+Pontevedra;2024;1
+Pontevedra;2025;1
+Port de la Selva;2006;34
+Port de la Selva;2007;31
+Port de la Selva;2008;25
+Port de la Selva;2009;23
+Port de la Selva;2010;22
+Port de la Selva;2011;20
+Port de la Selva;2012;23
+Port de la Selva;2013;21
+Port de la Selva;2014;20
+Port de la Selva;2015;18
+Port de la Selva;2016;18
+Port de la Selva;2017;16
+Port de la Selva;2018;14
+Port de la Selva;2019;14
+Port de la Selva;2020;13
+Port de la Selva;2021;13
+Port de la Selva;2022;13
+Port de la Selva;2023;10
+Port de la Selva;2024;12
+Port de la Selva;2025;11
+Porto Colom;2006;17
+Porto Colom;2007;17
+Porto Colom;2008;17
+Porto Colom;2009;16
+Porto Colom;2010;14
+Porto Colom;2011;12
+Porto Colom;2012;10
+Porto Colom;2013;11
+Porto Colom;2014;10
+Porto Colom;2015;9
+Porto Colom;2016;9
+Porto Colom;2017;9
+Porto Colom;2018;9
+Porto Colom;2019;10
+Porto Colom;2020;10
+Porto Colom;2021;10
+Porto Colom;2022;11
+Porto Colom;2023;11
+Porto Colom;2024;11
+Porto Colom;2025;9
+Porto Cristo;2006;17
+Porto Cristo;2007;17
+Porto Cristo;2008;16
+Porto Cristo;2009;14
+Porto Cristo;2010;13
+Porto Cristo;2011;11
+Porto Cristo;2012;11
+Porto Cristo;2013;10
+Porto Cristo;2014;12
+Porto Cristo;2015;10
+Porto Cristo;2016;10
+Porto Cristo;2017;14
+Porto Cristo;2018;13
+Porto Cristo;2019;12
+Porto Cristo;2020;12
+Porto Cristo;2021;9
+Porto Cristo;2022;8
+Porto Cristo;2023;8
+Porto Cristo;2024;8
+Porto Cristo;2025;8
+Portonovo;2006;44
+Portonovo;2007;37
+Portonovo;2008;36
+Portonovo;2009;36
+Portonovo;2010;36
+Portonovo;2011;34
+Portonovo;2012;36
+Portonovo;2013;37
+Portonovo;2014;35
+Portonovo;2015;34
+Portonovo;2016;31
+Portonovo;2017;30
+Portonovo;2018;28
+Portonovo;2019;27
+Portonovo;2020;26
+Portonovo;2021;26
+Portonovo;2022;28
+Portonovo;2023;25
+Portonovo;2024;26
+Portonovo;2025;26
+Portosín;2006;73
+Portosín;2007;71
+Portosín;2008;62
+Portosín;2009;63
+Portosín;2010;64
+Portosín;2011;66
+Portosín;2012;60
+Portosín;2013;58
+Portosín;2014;59
+Portosín;2015;59
+Portosín;2016;58
+Portosín;2017;61
+Portosín;2018;57
+Portosín;2019;58
+Portosín;2020;59
+Portosín;2021;61
+Portosín;2022;58
+Portosín;2023;58
+Portosín;2024;58
+Portosín;2025;54
+Premiá de Mar;2010;1
+Premiá de Mar;2011;1
+Premiá de Mar;2012;1
+Premiá de Mar;2013;1
+Premiá de Mar;2014;1
+Premiá de Mar;2015;1
+Premiá de Mar;2016;2
+Premiá de Mar;2017;2
+Premiá de Mar;2018;1
+Premiá de Mar;2019;1
+Premiá de Mar;2020;1
+Premiá de Mar;2021;1
+Puentedeume;2006;24
+Puentedeume;2007;24
+Puentedeume;2008;23
+Puentedeume;2009;22
+Puentedeume;2010;22
+Puentedeume;2011;23
+Puentedeume;2012;24
+Puentedeume;2013;27
+Puentedeume;2014;26
+Puentedeume;2015;26
+Puentedeume;2016;25
+Puentedeume;2017;25
+Puentedeume;2018;24
+Puentedeume;2019;24
+Puentedeume;2020;24
+Puentedeume;2021;23
+Puentedeume;2022;23
+Puentedeume;2023;22
+Puentedeume;2024;22
+Puentedeume;2025;22
+Puerto Real;2006;2
+Puerto Real;2007;2
+Puerto Real;2008;2
+Puerto Real;2009;2
+Puerto Real;2010;2
+Puerto Real;2011;2
+Puerto Real;2012;2
+Puerto Real;2013;2
+Puerto Real;2014;2
+Puerto Real;2015;2
+Puerto Real;2016;1
+Puerto Real;2017;1
+Puerto Real;2018;1
+Puerto Real;2019;1
+Puerto Real;2020;1
+Puerto Real;2021;1
+Puerto Real;2022;1
+Puerto Real;2023;1
+Puerto Real;2024;1
+Puerto Real;2025;1
+Puerto Santiago;2006;12
+Puerto Santiago;2007;12
+Puerto Santiago;2008;9
+Puerto Santiago;2009;6
+Puerto Santiago;2010;6
+Puerto Santiago;2011;5
+Puerto Santiago;2012;1
+Puerto Santiago;2013;1
+Puerto Santiago;2014;1
+Puerto Santiago;2015;1
+Puerto Santiago;2016;1
+Puerto Santiago;2017;1
+Puerto Santiago;2018;1
+Puerto de Santa Maria;2006;31
+Puerto de Santa Maria;2007;28
+Puerto de Santa Maria;2008;22
+Puerto de Santa Maria;2009;22
+Puerto de Santa Maria;2010;19
+Puerto de Santa Maria;2011;18
+Puerto de Santa Maria;2012;17
+Puerto de Santa Maria;2013;15
+Puerto de Santa Maria;2014;17
+Puerto de Santa Maria;2015;18
+Puerto de Santa Maria;2016;19
+Puerto de Santa Maria;2017;19
+Puerto de Santa Maria;2018;22
+Puerto de Santa Maria;2019;20
+Puerto de Santa Maria;2020;21
+Puerto de Santa Maria;2021;22
+Puerto de Santa Maria;2022;22
+Puerto de Santa Maria;2023;22
+Puerto de Santa Maria;2024;19
+Puerto de Santa Maria;2025;16
+Puerto de Sóller;2006;12
+Puerto de Sóller;2007;12
+Puerto de Sóller;2008;12
+Puerto de Sóller;2009;11
+Puerto de Sóller;2010;11
+Puerto de Sóller;2011;11
+Puerto de Sóller;2012;10
+Puerto de Sóller;2013;11
+Puerto de Sóller;2014;10
+Puerto de Sóller;2015;10
+Puerto de Sóller;2016;10
+Puerto de Sóller;2017;11
+Puerto de Sóller;2018;10
+Puerto de Sóller;2019;9
+Puerto de Sóller;2020;9
+Puerto de Sóller;2021;9
+Puerto de Sóller;2022;10
+Puerto de Sóller;2023;10
+Puerto de Sóller;2024;11
+Puerto de Sóller;2025;12
+Puerto de Vega;2006;25
+Puerto de Vega;2007;25
+Puerto de Vega;2008;23
+Puerto de Vega;2009;21
+Puerto de Vega;2010;22
+Puerto de Vega;2011;20
+Puerto de Vega;2012;17
+Puerto de Vega;2013;17
+Puerto de Vega;2014;13
+Puerto de Vega;2015;13
+Puerto de Vega;2016;12
+Puerto de Vega;2017;13
+Puerto de Vega;2018;13
+Puerto de Vega;2019;13
+Puerto de Vega;2020;15
+Puerto de Vega;2021;15
+Puerto de Vega;2022;15
+Puerto de Vega;2023;16
+Puerto de Vega;2024;15
+Puerto de Vega;2025;14
+Puerto de la Cruz;2006;29
+Puerto de la Cruz;2007;31
+Puerto de la Cruz;2008;29
+Puerto de la Cruz;2009;30
+Puerto de la Cruz;2010;28
+Puerto de la Cruz;2011;26
+Puerto de la Cruz;2012;22
+Puerto de la Cruz;2013;18
+Puerto de la Cruz;2014;18
+Puerto de la Cruz;2015;18
+Puerto de la Cruz;2016;18
+Puerto de la Cruz;2017;17
+Puerto de la Cruz;2018;17
+Puerto de la Cruz;2019;18
+Puerto de la Cruz;2020;17
+Puerto de la Cruz;2021;16
+Puerto de la Cruz;2022;16
+Puerto de la Cruz;2023;14
+Puerto de la Cruz;2024;15
+Puerto de la Cruz;2025;18
+Puerto del Carmen;2008;15
+Puerto del Carmen;2009;21
+Puerto del Carmen;2010;21
+Puerto del Carmen;2011;21
+Puerto del Carmen;2012;20
+Puerto del Carmen;2013;19
+Puerto del Carmen;2014;20
+Puerto del Carmen;2015;21
+Puerto del Carmen;2016;20
+Puerto del Carmen;2017;20
+Puerto del Carmen;2018;19
+Puerto del Carmen;2019;19
+Puerto del Carmen;2020;19
+Puerto del Carmen;2021;20
+Puerto del Carmen;2022;19
+Puerto del Carmen;2023;18
+Puerto del Carmen;2024;18
+Puerto del Carmen;2025;19
+Puerto del Rosario;2006;97
+Puerto del Rosario;2007;77
+Puerto del Rosario;2008;48
+Puerto del Rosario;2009;42
+Puerto del Rosario;2010;38
+Puerto del Rosario;2011;35
+Puerto del Rosario;2012;24
+Puerto del Rosario;2013;21
+Puerto del Rosario;2014;17
+Puerto del Rosario;2015;15
+Puerto del Rosario;2016;14
+Puerto del Rosario;2017;13
+Puerto del Rosario;2018;12
+Puerto del Rosario;2019;13
+Puerto del Rosario;2020;12
+Puerto del Rosario;2021;12
+Puerto del Rosario;2022;12
+Puerto del Rosario;2023;13
+Puerto del Rosario;2024;12
+Puerto del Rosario;2025;12
+Puerto del Son;2006;81
+Puerto del Son;2007;73
+Puerto del Son;2008;48
+Puerto del Son;2009;51
+Puerto del Son;2010;50
+Puerto del Son;2011;45
+Puerto del Son;2012;40
+Puerto del Son;2013;40
+Puerto del Son;2014;38
+Puerto del Son;2015;38
+Puerto del Son;2016;38
+Puerto del Son;2017;39
+Puerto del Son;2018;38
+Puerto del Son;2019;41
+Puerto del Son;2020;41
+Puerto del Son;2021;43
+Puerto del Son;2022;44
+Puerto del Son;2023;46
+Puerto del Son;2024;43
+Puerto del Son;2025;44
+Punta Hidalgo;2006;9
+Punta Hidalgo;2007;5
+Punta Hidalgo;2008;7
+Punta Hidalgo;2009;9
+Punta Hidalgo;2010;9
+Punta Hidalgo;2011;9
+Punta Hidalgo;2012;11
+Punta Hidalgo;2013;11
+Punta Hidalgo;2014;15
+Punta Hidalgo;2015;16
+Punta Hidalgo;2016;16
+Punta Hidalgo;2017;18
+Punta Hidalgo;2018;20
+Punta Hidalgo;2019;20
+Punta Hidalgo;2020;21
+Punta Hidalgo;2021;21
+Punta Hidalgo;2022;20
+Punta Hidalgo;2023;19
+Punta Hidalgo;2024;19
+Punta Hidalgo;2025;19
+Punta Umbria;2006;103
+Punta Umbria;2007;100
+Punta Umbria;2008;101
+Punta Umbria;2009;102
+Punta Umbria;2010;108
+Punta Umbria;2011;106
+Punta Umbria;2012;106
+Punta Umbria;2013;107
+Punta Umbria;2014;104
+Punta Umbria;2015;101
+Punta Umbria;2016;100
+Punta Umbria;2017;101
+Punta Umbria;2018;100
+Punta Umbria;2019;105
+Punta Umbria;2020;108
+Punta Umbria;2021;108
+Punta Umbria;2022;109
+Punta Umbria;2023;109
+Punta Umbria;2024;113
+Punta Umbria;2025;116
+Rajo;2006;16
+Rajo;2007;15
+Rajo;2008;12
+Rajo;2009;12
+Rajo;2010;11
+Rajo;2011;10
+Rajo;2012;9
+Rajo;2013;10
+Rajo;2014;10
+Rajo;2015;10
+Rajo;2016;9
+Rajo;2017;9
+Rajo;2018;8
+Rajo;2019;7
+Rajo;2020;6
+Rajo;2021;5
+Rajo;2022;5
+Rajo;2023;5
+Rajo;2024;5
+Rajo;2025;5
+Redondela;2006;195
+Redondela;2007;191
+Redondela;2008;132
+Redondela;2009;128
+Redondela;2010;128
+Redondela;2011;117
+Redondela;2012;112
+Redondela;2013;107
+Redondela;2014;105
+Redondela;2015;99
+Redondela;2016;98
+Redondela;2017;95
+Redondela;2018;90
+Redondela;2019;84
+Redondela;2020;76
+Redondela;2021;70
+Redondela;2022;64
+Redondela;2023;62
+Redondela;2024;60
+Redondela;2025;56
+Rianjo;2006;388
+Rianjo;2007;377
+Rianjo;2008;247
+Rianjo;2009;241
+Rianjo;2010;232
+Rianjo;2011;220
+Rianjo;2012;212
+Rianjo;2013;205
+Rianjo;2014;206
+Rianjo;2015;205
+Rianjo;2016;204
+Rianjo;2017;201
+Rianjo;2018;197
+Rianjo;2019;198
+Rianjo;2020;197
+Rianjo;2021;197
+Rianjo;2022;197
+Rianjo;2023;196
+Rianjo;2024;194
+Rianjo;2025;192
+Ribadeo;2006;7
+Ribadeo;2007;7
+Ribadeo;2008;8
+Ribadeo;2009;8
+Ribadeo;2010;8
+Ribadeo;2011;8
+Ribadeo;2012;9
+Ribadeo;2013;8
+Ribadeo;2014;8
+Ribadeo;2015;5
+Ribadeo;2016;4
+Ribadeo;2017;5
+Ribadeo;2018;4
+Ribadeo;2019;4
+Ribadeo;2020;4
+Ribadeo;2021;4
+Ribadeo;2022;4
+Ribadeo;2023;4
+Ribadeo;2024;4
+Ribadeo;2025;4
+Ribadesella;2006;8
+Ribadesella;2007;8
+Ribadesella;2008;8
+Ribadesella;2009;8
+Ribadesella;2010;8
+Ribadesella;2011;9
+Ribadesella;2012;9
+Ribadesella;2013;8
+Ribadesella;2014;8
+Ribadesella;2015;9
+Ribadesella;2016;9
+Ribadesella;2017;9
+Ribadesella;2018;9
+Ribadesella;2019;10
+Ribadesella;2020;11
+Ribadesella;2021;11
+Ribadesella;2022;11
+Ribadesella;2023;11
+Ribadesella;2024;10
+Ribadesella;2025;10
+Rinlo;2006;1
+Roquetas De Mar;2006;25
+Roquetas De Mar;2007;24
+Roquetas De Mar;2008;23
+Roquetas De Mar;2009;25
+Roquetas De Mar;2010;24
+Roquetas De Mar;2011;22
+Roquetas De Mar;2012;17
+Roquetas De Mar;2013;16
+Roquetas De Mar;2014;15
+Roquetas De Mar;2015;17
+Roquetas De Mar;2016;17
+Roquetas De Mar;2017;17
+Roquetas De Mar;2018;18
+Roquetas De Mar;2019;16
+Roquetas De Mar;2020;19
+Roquetas De Mar;2021;19
+Roquetas De Mar;2022;20
+Roquetas De Mar;2023;21
+Roquetas De Mar;2024;20
+Roquetas De Mar;2025;21
+Rosas;2006;89
+Rosas;2007;90
+Rosas;2008;83
+Rosas;2009;80
+Rosas;2010;78
+Rosas;2011;78
+Rosas;2012;77
+Rosas;2013;70
+Rosas;2014;68
+Rosas;2015;68
+Rosas;2016;68
+Rosas;2017;58
+Rosas;2018;51
+Rosas;2019;48
+Rosas;2020;43
+Rosas;2021;44
+Rosas;2022;43
+Rosas;2023;37
+Rosas;2024;31
+Rosas;2025;31
+Rota;2006;36
+Rota;2007;37
+Rota;2008;36
+Rota;2009;36
+Rota;2010;35
+Rota;2011;32
+Rota;2012;31
+Rota;2013;30
+Rota;2014;29
+Rota;2015;28
+Rota;2016;28
+Rota;2017;30
+Rota;2018;28
+Rota;2019;28
+Rota;2020;29
+Rota;2021;31
+Rota;2022;31
+Rota;2023;30
+Rota;2024;31
+Rota;2025;31
+Sada;2006;24
+Sada;2007;23
+Sada;2008;23
+Sada;2009;23
+Sada;2010;24
+Sada;2011;27
+Sada;2012;28
+Sada;2013;27
+Sada;2014;26
+Sada;2015;25
+Sada;2016;26
+Sada;2017;24
+Sada;2018;27
+Sada;2019;24
+Sada;2020;24
+Sada;2021;21
+Sada;2022;21
+Sada;2023;23
+Sada;2024;23
+Sada;2025;23
+Sagunto;2006;27
+Sagunto;2007;26
+Sagunto;2008;20
+Sagunto;2009;16
+Sagunto;2010;16
+Sagunto;2011;14
+Sagunto;2012;8
+Sagunto;2013;8
+Sagunto;2014;9
+Sagunto;2015;9
+Sagunto;2016;9
+Sagunto;2017;8
+Sagunto;2018;8
+Sagunto;2019;8
+Sagunto;2020;8
+Sagunto;2021;6
+Sagunto;2022;7
+Sagunto;2023;5
+Sagunto;2024;2
+Sagunto;2025;2
+San Adrián;2006;7
+San Adrián;2007;7
+San Adrián;2008;4
+San Adrián;2009;4
+San Adrián;2010;3
+San Adrián;2011;3
+San Adrián;2012;3
+San Adrián;2013;3
+San Adrián;2014;3
+San Adrián;2015;3
+San Adrián;2016;3
+San Adrián;2017;3
+San Adrián;2018;3
+San Adrián;2019;2
+San Adrián;2020;1
+San Adrián;2021;1
+San Adrián;2022;1
+San Andrés;2006;6
+San Andrés;2007;6
+San Andrés;2008;8
+San Andrés;2009;8
+San Andrés;2010;10
+San Andrés;2011;11
+San Andrés;2012;9
+San Andrés;2013;9
+San Andrés;2014;9
+San Andrés;2015;9
+San Andrés;2016;8
+San Andrés;2017;8
+San Andrés;2018;7
+San Andrés;2019;6
+San Andrés;2020;6
+San Andrés;2021;6
+San Andrés;2022;5
+San Andrés;2023;5
+San Andrés;2024;3
+San Andrés;2025;3
+San Antonio Abad;2006;30
+San Antonio Abad;2007;30
+San Antonio Abad;2008;24
+San Antonio Abad;2009;22
+San Antonio Abad;2010;21
+San Antonio Abad;2011;21
+San Antonio Abad;2012;20
+San Antonio Abad;2013;21
+San Antonio Abad;2014;18
+San Antonio Abad;2015;19
+San Antonio Abad;2016;19
+San Antonio Abad;2017;20
+San Antonio Abad;2018;19
+San Antonio Abad;2019;20
+San Antonio Abad;2020;20
+San Antonio Abad;2021;20
+San Antonio Abad;2022;21
+San Antonio Abad;2023;22
+San Antonio Abad;2024;22
+San Antonio Abad;2025;22
+San Carlos de la Rápita;2006;109
+San Carlos de la Rápita;2007;106
+San Carlos de la Rápita;2008;93
+San Carlos de la Rápita;2009;89
+San Carlos de la Rápita;2010;89
+San Carlos de la Rápita;2011;90
+San Carlos de la Rápita;2012;85
+San Carlos de la Rápita;2013;90
+San Carlos de la Rápita;2014;90
+San Carlos de la Rápita;2015;88
+San Carlos de la Rápita;2016;88
+San Carlos de la Rápita;2017;88
+San Carlos de la Rápita;2018;90
+San Carlos de la Rápita;2019;89
+San Carlos de la Rápita;2020;88
+San Carlos de la Rápita;2021;88
+San Carlos de la Rápita;2022;91
+San Carlos de la Rápita;2023;91
+San Carlos de la Rápita;2024;95
+San Carlos de la Rápita;2025;97
+San Ciprián;2006;17
+San Ciprián;2007;19
+San Ciprián;2008;19
+San Ciprián;2009;19
+San Ciprián;2010;18
+San Ciprián;2011;17
+San Ciprián;2012;16
+San Ciprián;2013;16
+San Ciprián;2014;15
+San Ciprián;2015;13
+San Ciprián;2016;13
+San Ciprián;2017;13
+San Ciprián;2018;12
+San Ciprián;2019;12
+San Ciprián;2020;13
+San Ciprián;2021;13
+San Ciprián;2022;13
+San Ciprián;2023;12
+San Ciprián;2024;11
+San Ciprián;2025;11
+San Cristóbal;2008;8
+San Cristóbal;2009;8
+San Cristóbal;2010;9
+San Cristóbal;2011;8
+San Cristóbal;2012;8
+San Cristóbal;2013;7
+San Cristóbal;2014;8
+San Cristóbal;2015;8
+San Cristóbal;2016;8
+San Cristóbal;2017;10
+San Cristóbal;2018;10
+San Cristóbal;2019;9
+San Cristóbal;2020;9
+San Cristóbal;2021;7
+San Cristóbal;2022;10
+San Cristóbal;2023;10
+San Cristóbal;2024;10
+San Cristóbal;2025;9
+San Esteban de Pravia;2006;1
+San Esteban de Pravia;2007;1
+San Feliu De Guixols;2006;29
+San Feliu De Guixols;2007;28
+San Feliu De Guixols;2008;24
+San Feliu De Guixols;2009;24
+San Feliu De Guixols;2010;22
+San Feliu De Guixols;2011;20
+San Feliu De Guixols;2012;17
+San Feliu De Guixols;2013;15
+San Feliu De Guixols;2014;17
+San Feliu De Guixols;2015;17
+San Feliu De Guixols;2016;15
+San Feliu De Guixols;2017;16
+San Feliu De Guixols;2018;16
+San Feliu De Guixols;2019;16
+San Feliu De Guixols;2020;16
+San Feliu De Guixols;2021;17
+San Feliu De Guixols;2022;16
+San Feliu De Guixols;2023;15
+San Feliu De Guixols;2024;11
+San Feliu De Guixols;2025;11
+San Fernando;2006;25
+San Fernando;2007;24
+San Fernando;2008;14
+San Fernando;2009;13
+San Fernando;2010;12
+San Fernando;2011;12
+San Fernando;2012;12
+San Fernando;2013;12
+San Fernando;2014;12
+San Fernando;2015;10
+San Fernando;2016;10
+San Fernando;2017;10
+San Fernando;2018;10
+San Fernando;2019;10
+San Fernando;2020;10
+San Fernando;2021;10
+San Fernando;2022;9
+San Fernando;2023;9
+San Fernando;2024;9
+San Fernando;2025;8
+San Juan de la Arena;2006;19
+San Juan de la Arena;2007;19
+San Juan de la Arena;2008;17
+San Juan de la Arena;2009;17
+San Juan de la Arena;2010;16
+San Juan de la Arena;2011;15
+San Juan de la Arena;2012;15
+San Juan de la Arena;2013;14
+San Juan de la Arena;2014;14
+San Juan de la Arena;2015;15
+San Juan de la Arena;2016;15
+San Juan de la Arena;2017;16
+San Juan de la Arena;2018;17
+San Juan de la Arena;2019;17
+San Juan de la Arena;2020;20
+San Juan de la Arena;2021;21
+San Juan de la Arena;2022;20
+San Juan de la Arena;2023;25
+San Juan de la Arena;2024;25
+San Juan de la Arena;2025;27
+San Miguel de Tajao;2006;15
+San Miguel de Tajao;2007;16
+San Miguel de Tajao;2008;19
+San Miguel de Tajao;2009;18
+San Miguel de Tajao;2010;18
+San Miguel de Tajao;2011;20
+San Miguel de Tajao;2012;19
+San Miguel de Tajao;2013;18
+San Miguel de Tajao;2014;17
+San Miguel de Tajao;2015;17
+San Miguel de Tajao;2016;17
+San Miguel de Tajao;2017;17
+San Miguel de Tajao;2018;19
+San Miguel de Tajao;2019;19
+San Miguel de Tajao;2020;19
+San Miguel de Tajao;2021;20
+San Miguel de Tajao;2022;20
+San Miguel de Tajao;2023;20
+San Miguel de Tajao;2024;20
+San Miguel de Tajao;2025;18
+San Pedro del Pinatar;2006;92
+San Pedro del Pinatar;2007;86
+San Pedro del Pinatar;2008;73
+San Pedro del Pinatar;2009;72
+San Pedro del Pinatar;2010;71
+San Pedro del Pinatar;2011;69
+San Pedro del Pinatar;2012;66
+San Pedro del Pinatar;2013;64
+San Pedro del Pinatar;2014;63
+San Pedro del Pinatar;2015;64
+San Pedro del Pinatar;2016;64
+San Pedro del Pinatar;2017;63
+San Pedro del Pinatar;2018;61
+San Pedro del Pinatar;2019;66
+San Pedro del Pinatar;2020;66
+San Pedro del Pinatar;2021;72
+San Pedro del Pinatar;2022;78
+San Pedro del Pinatar;2023;82
+San Pedro del Pinatar;2024;82
+San Pedro del Pinatar;2025;81
+San Pol de Mar;2006;14
+San Pol de Mar;2007;14
+San Pol de Mar;2008;11
+San Pol de Mar;2009;11
+San Pol de Mar;2010;10
+San Pol de Mar;2011;9
+San Pol de Mar;2012;9
+San Pol de Mar;2013;8
+San Pol de Mar;2014;8
+San Pol de Mar;2015;7
+San Pol de Mar;2016;8
+San Pol de Mar;2017;8
+San Pol de Mar;2018;8
+San Pol de Mar;2019;8
+San Sebastián;2006;17
+San Sebastián;2007;15
+San Sebastián;2008;15
+San Sebastián;2009;14
+San Sebastián;2010;13
+San Sebastián;2011;12
+San Sebastián;2012;11
+San Sebastián;2013;10
+San Sebastián;2014;9
+San Sebastián;2015;6
+San Sebastián;2016;5
+San Sebastián;2017;5
+San Sebastián;2018;5
+San Sebastián;2019;5
+San Sebastián;2020;3
+San Sebastián;2021;3
+San Sebastián;2022;3
+San Sebastián;2023;3
+San Sebastián;2024;3
+San Sebastián;2025;3
+San Sebastián de la Gomera;2006;9
+San Sebastián de la Gomera;2007;8
+San Sebastián de la Gomera;2008;8
+San Sebastián de la Gomera;2009;1
+San Vicente de la Barquera;2006;24
+San Vicente de la Barquera;2007;25
+San Vicente de la Barquera;2008;21
+San Vicente de la Barquera;2009;21
+San Vicente de la Barquera;2010;21
+San Vicente de la Barquera;2011;18
+San Vicente de la Barquera;2012;19
+San Vicente de la Barquera;2013;18
+San Vicente de la Barquera;2014;19
+San Vicente de la Barquera;2015;19
+San Vicente de la Barquera;2016;18
+San Vicente de la Barquera;2017;17
+San Vicente de la Barquera;2018;18
+San Vicente de la Barquera;2019;20
+San Vicente de la Barquera;2020;20
+San Vicente de la Barquera;2021;19
+San Vicente de la Barquera;2022;19
+San Vicente de la Barquera;2023;18
+San Vicente de la Barquera;2024;17
+San Vicente de la Barquera;2025;17
+Sanjenjo;2006;29
+Sanjenjo;2007;27
+Sanjenjo;2008;24
+Sanjenjo;2009;23
+Sanjenjo;2010;22
+Sanjenjo;2011;22
+Sanjenjo;2012;22
+Sanjenjo;2013;19
+Sanjenjo;2014;19
+Sanjenjo;2015;16
+Sanjenjo;2016;18
+Sanjenjo;2017;16
+Sanjenjo;2018;16
+Sanjenjo;2019;16
+Sanjenjo;2020;17
+Sanjenjo;2021;17
+Sanjenjo;2022;19
+Sanjenjo;2023;20
+Sanjenjo;2024;20
+Sanjenjo;2025;19
+Sanlucar De Barrameda;2006;115
+Sanlucar De Barrameda;2007;118
+Sanlucar De Barrameda;2008;118
+Sanlucar De Barrameda;2009;120
+Sanlucar De Barrameda;2010;122
+Sanlucar De Barrameda;2011;121
+Sanlucar De Barrameda;2012;119
+Sanlucar De Barrameda;2013;121
+Sanlucar De Barrameda;2014;120
+Sanlucar De Barrameda;2015;119
+Sanlucar De Barrameda;2016;120
+Sanlucar De Barrameda;2017;117
+Sanlucar De Barrameda;2018;113
+Sanlucar De Barrameda;2019;109
+Sanlucar De Barrameda;2020;108
+Sanlucar De Barrameda;2021;105
+Sanlucar De Barrameda;2022;104
+Sanlucar De Barrameda;2023;103
+Sanlucar De Barrameda;2024;98
+Sanlucar De Barrameda;2025;94
+Santa Cristina de Cobres;2011;10
+Santa Cristina de Cobres;2012;10
+Santa Cristina de Cobres;2013;11
+Santa Cristina de Cobres;2014;13
+Santa Cristina de Cobres;2015;13
+Santa Cristina de Cobres;2016;14
+Santa Cristina de Cobres;2017;15
+Santa Cristina de Cobres;2018;15
+Santa Cristina de Cobres;2019;16
+Santa Cristina de Cobres;2020;21
+Santa Cristina de Cobres;2021;25
+Santa Cristina de Cobres;2022;26
+Santa Cristina de Cobres;2023;28
+Santa Cristina de Cobres;2024;29
+Santa Cristina de Cobres;2025;29
+Santa Cruz de La Palma;2006;43
+Santa Cruz de La Palma;2007;42
+Santa Cruz de La Palma;2008;37
+Santa Cruz de La Palma;2009;34
+Santa Cruz de La Palma;2010;34
+Santa Cruz de La Palma;2011;33
+Santa Cruz de La Palma;2012;31
+Santa Cruz de La Palma;2013;31
+Santa Cruz de La Palma;2014;26
+Santa Cruz de La Palma;2015;23
+Santa Cruz de La Palma;2016;22
+Santa Cruz de La Palma;2017;19
+Santa Cruz de La Palma;2018;19
+Santa Cruz de La Palma;2019;19
+Santa Cruz de La Palma;2020;18
+Santa Cruz de La Palma;2021;19
+Santa Cruz de La Palma;2022;19
+Santa Cruz de La Palma;2023;20
+Santa Cruz de La Palma;2024;17
+Santa Cruz de La Palma;2025;16
+Santa Cruz de Tenerife;2006;56
+Santa Cruz de Tenerife;2007;56
+Santa Cruz de Tenerife;2008;51
+Santa Cruz de Tenerife;2009;49
+Santa Cruz de Tenerife;2010;44
+Santa Cruz de Tenerife;2011;39
+Santa Cruz de Tenerife;2012;34
+Santa Cruz de Tenerife;2013;35
+Santa Cruz de Tenerife;2014;31
+Santa Cruz de Tenerife;2015;31
+Santa Cruz de Tenerife;2016;29
+Santa Cruz de Tenerife;2017;34
+Santa Cruz de Tenerife;2018;35
+Santa Cruz de Tenerife;2019;35
+Santa Cruz de Tenerife;2020;35
+Santa Cruz de Tenerife;2021;36
+Santa Cruz de Tenerife;2022;29
+Santa Cruz de Tenerife;2023;27
+Santa Cruz de Tenerife;2024;24
+Santa Cruz de Tenerife;2025;23
+Santa Eugenia de Riveira;2006;329
+Santa Eugenia de Riveira;2007;320
+Santa Eugenia de Riveira;2008;291
+Santa Eugenia de Riveira;2009;291
+Santa Eugenia de Riveira;2010;285
+Santa Eugenia de Riveira;2011;279
+Santa Eugenia de Riveira;2012;267
+Santa Eugenia de Riveira;2013;262
+Santa Eugenia de Riveira;2014;264
+Santa Eugenia de Riveira;2015;256
+Santa Eugenia de Riveira;2016;253
+Santa Eugenia de Riveira;2017;257
+Santa Eugenia de Riveira;2018;252
+Santa Eugenia de Riveira;2019;251
+Santa Eugenia de Riveira;2020;252
+Santa Eugenia de Riveira;2021;246
+Santa Eugenia de Riveira;2022;244
+Santa Eugenia de Riveira;2023;242
+Santa Eugenia de Riveira;2024;235
+Santa Eugenia de Riveira;2025;233
+Santa Marta de Ortigueira;2006;1
+Santa Marta de Ortigueira;2007;1
+Santa Pola;2006;95
+Santa Pola;2007;94
+Santa Pola;2008;90
+Santa Pola;2009;83
+Santa Pola;2010;74
+Santa Pola;2011;77
+Santa Pola;2012;77
+Santa Pola;2013;78
+Santa Pola;2014;84
+Santa Pola;2015;85
+Santa Pola;2016;88
+Santa Pola;2017;86
+Santa Pola;2018;90
+Santa Pola;2019;89
+Santa Pola;2020;90
+Santa Pola;2021;90
+Santa Pola;2022;89
+Santa Pola;2023;87
+Santa Pola;2024;87
+Santa Pola;2025;87
+Santander;2006;42
+Santander;2007;40
+Santander;2008;39
+Santander;2009;39
+Santander;2010;32
+Santander;2011;29
+Santander;2012;28
+Santander;2013;28
+Santander;2014;27
+Santander;2015;24
+Santander;2016;23
+Santander;2017;23
+Santander;2018;23
+Santander;2019;21
+Santander;2020;22
+Santander;2021;24
+Santander;2022;24
+Santander;2023;22
+Santander;2024;22
+Santander;2025;21
+Santañí;2006;14
+Santañí;2007;14
+Santañí;2008;13
+Santañí;2009;13
+Santañí;2010;11
+Santañí;2011;12
+Santañí;2012;13
+Santañí;2013;13
+Santañí;2014;13
+Santañí;2015;13
+Santañí;2016;14
+Santañí;2017;13
+Santañí;2018;13
+Santañí;2019;13
+Santañí;2020;10
+Santañí;2021;9
+Santañí;2022;11
+Santañí;2023;10
+Santañí;2024;10
+Santañí;2025;10
+Santoña;2006;36
+Santoña;2007;34
+Santoña;2008;32
+Santoña;2009;34
+Santoña;2010;32
+Santoña;2011;33
+Santoña;2012;33
+Santoña;2013;34
+Santoña;2014;33
+Santoña;2015;33
+Santoña;2016;35
+Santoña;2017;36
+Santoña;2018;35
+Santoña;2019;35
+Santoña;2020;37
+Santoña;2021;34
+Santoña;2022;36
+Santoña;2023;37
+Santoña;2024;37
+Santoña;2025;39
+Santurce;2006;13
+Santurce;2007;11
+Santurce;2008;10
+Santurce;2009;10
+Santurce;2010;10
+Santurce;2011;9
+Santurce;2012;9
+Santurce;2013;9
+Santurce;2014;10
+Santurce;2015;9
+Santurce;2016;9
+Santurce;2017;9
+Santurce;2018;8
+Santurce;2019;9
+Santurce;2020;8
+Santurce;2021;7
+Santurce;2022;7
+Santurce;2023;7
+Santurce;2024;7
+Santurce;2025;7
+Sitges;2006;17
+Sitges;2007;15
+Sitges;2008;14
+Sitges;2009;15
+Sitges;2010;15
+Sitges;2011;14
+Sitges;2012;13
+Sitges;2013;13
+Sitges;2014;13
+Sitges;2015;13
+Sitges;2016;13
+Sitges;2017;12
+Sitges;2018;11
+Sitges;2019;8
+Sitges;2020;7
+Sitges;2021;5
+Sitges;2022;4
+Sitges;2023;4
+Sitges;2024;4
+Sitges;2025;4
+Suances;2006;9
+Suances;2007;9
+Suances;2008;8
+Suances;2009;8
+Suances;2010;8
+Suances;2011;8
+Suances;2012;8
+Suances;2013;8
+Suances;2014;9
+Suances;2015;9
+Suances;2016;9
+Suances;2017;8
+Suances;2018;8
+Suances;2019;9
+Suances;2020;9
+Suances;2021;9
+Suances;2022;9
+Suances;2023;9
+Suances;2024;10
+Suances;2025;10
+Taliarte - Melenara;2006;17
+Taliarte - Melenara;2007;17
+Taliarte - Melenara;2008;16
+Taliarte - Melenara;2009;17
+Taliarte - Melenara;2010;19
+Taliarte - Melenara;2011;20
+Taliarte - Melenara;2012;18
+Taliarte - Melenara;2013;18
+Taliarte - Melenara;2014;17
+Taliarte - Melenara;2015;17
+Taliarte - Melenara;2016;16
+Taliarte - Melenara;2017;18
+Taliarte - Melenara;2018;17
+Taliarte - Melenara;2019;16
+Taliarte - Melenara;2020;15
+Taliarte - Melenara;2021;12
+Taliarte - Melenara;2022;12
+Taliarte - Melenara;2023;12
+Taliarte - Melenara;2024;11
+Taliarte - Melenara;2025;11
+Tapia de Casariego;2006;12
+Tapia de Casariego;2007;10
+Tapia de Casariego;2008;11
+Tapia de Casariego;2009;11
+Tapia de Casariego;2010;11
+Tapia de Casariego;2011;11
+Tapia de Casariego;2012;11
+Tapia de Casariego;2013;10
+Tapia de Casariego;2014;7
+Tapia de Casariego;2015;9
+Tapia de Casariego;2016;8
+Tapia de Casariego;2017;8
+Tapia de Casariego;2018;8
+Tapia de Casariego;2019;6
+Tapia de Casariego;2020;6
+Tapia de Casariego;2021;6
+Tapia de Casariego;2022;6
+Tapia de Casariego;2023;5
+Tapia de Casariego;2024;5
+Tapia de Casariego;2025;5
+Tarifa;2006;76
+Tarifa;2007;80
+Tarifa;2008;74
+Tarifa;2009;68
+Tarifa;2010;68
+Tarifa;2011;64
+Tarifa;2012;52
+Tarifa;2013;52
+Tarifa;2014;50
+Tarifa;2015;47
+Tarifa;2016;47
+Tarifa;2017;47
+Tarifa;2018;47
+Tarifa;2019;48
+Tarifa;2020;48
+Tarifa;2021;49
+Tarifa;2022;49
+Tarifa;2023;50
+Tarifa;2024;58
+Tarifa;2025;58
+Tarragona;2006;66
+Tarragona;2007;68
+Tarragona;2008;65
+Tarragona;2009;63
+Tarragona;2010;58
+Tarragona;2011;56
+Tarragona;2012;55
+Tarragona;2013;54
+Tarragona;2014;54
+Tarragona;2015;51
+Tarragona;2016;47
+Tarragona;2017;42
+Tarragona;2018;42
+Tarragona;2019;40
+Tarragona;2020;39
+Tarragona;2021;39
+Tarragona;2022;38
+Tarragona;2023;38
+Tarragona;2024;33
+Tarragona;2025;32
+Tazacorte;2006;26
+Tazacorte;2007;26
+Tazacorte;2008;29
+Tazacorte;2009;31
+Tazacorte;2010;30
+Tazacorte;2011;31
+Tazacorte;2012;31
+Tazacorte;2013;30
+Tazacorte;2014;34
+Tazacorte;2015;35
+Tazacorte;2016;37
+Tazacorte;2017;36
+Tazacorte;2018;37
+Tazacorte;2019;35
+Tazacorte;2020;34
+Tazacorte;2021;35
+Tazacorte;2022;35
+Tazacorte;2023;34
+Tazacorte;2024;33
+Tazacorte;2025;34
+Tazones;2006;16
+Tazones;2007;14
+Tazones;2008;14
+Tazones;2009;12
+Tazones;2010;11
+Tazones;2011;10
+Tazones;2012;10
+Tazones;2013;10
+Tazones;2014;10
+Tazones;2015;9
+Tazones;2016;9
+Tazones;2017;9
+Tazones;2018;9
+Tazones;2019;8
+Tazones;2020;6
+Tazones;2021;6
+Tazones;2022;6
+Tazones;2023;6
+Tazones;2024;5
+Tazones;2025;5
+Torre Del Mar;2006;1
+Torre Del Mar;2007;1
+Torredembarra;2006;16
+Torredembarra;2007;15
+Torredembarra;2008;15
+Torredembarra;2009;15
+Torredembarra;2010;15
+Torredembarra;2011;15
+Torredembarra;2012;13
+Torredembarra;2013;13
+Torredembarra;2014;10
+Torredembarra;2015;7
+Torredembarra;2016;6
+Torredembarra;2017;4
+Torredembarra;2018;5
+Torredembarra;2019;5
+Torredembarra;2020;4
+Torredembarra;2021;4
+Torredembarra;2022;4
+Torredembarra;2023;4
+Torredembarra;2024;4
+Torredembarra;2025;4
+Torrevieja;2006;21
+Torrevieja;2007;20
+Torrevieja;2008;17
+Torrevieja;2009;18
+Torrevieja;2010;18
+Torrevieja;2011;18
+Torrevieja;2012;17
+Torrevieja;2013;16
+Torrevieja;2014;16
+Torrevieja;2015;14
+Torrevieja;2016;14
+Torrevieja;2017;13
+Torrevieja;2018;11
+Torrevieja;2019;12
+Torrevieja;2020;11
+Torrevieja;2021;7
+Torrevieja;2022;9
+Torrevieja;2023;10
+Torrevieja;2024;9
+Torrevieja;2025;7
+Tossa de Mar;2006;14
+Tossa de Mar;2007;14
+Tossa de Mar;2008;13
+Tossa de Mar;2009;13
+Tossa de Mar;2010;13
+Tossa de Mar;2011;7
+Tossa de Mar;2012;7
+Tossa de Mar;2013;4
+Tossa de Mar;2014;4
+Tossa de Mar;2015;4
+Tossa de Mar;2016;4
+Tossa de Mar;2017;4
+Tossa de Mar;2018;1
+Tossa de Mar;2019;1
+Valencia;2006;41
+Valencia;2007;38
+Valencia;2008;38
+Valencia;2009;37
+Valencia;2010;32
+Valencia;2011;30
+Valencia;2012;29
+Valencia;2013;20
+Valencia;2014;20
+Valencia;2015;20
+Valencia;2016;20
+Valencia;2017;20
+Valencia;2018;19
+Valencia;2019;18
+Valencia;2020;20
+Valencia;2021;19
+Valencia;2022;18
+Valencia;2023;18
+Valencia;2024;21
+Valencia;2025;19
+Valle Gran Rey;2006;23
+Valle Gran Rey;2007;22
+Valle Gran Rey;2008;19
+Valle Gran Rey;2009;16
+Valle Gran Rey;2010;18
+Valle Gran Rey;2011;19
+Valle Gran Rey;2012;19
+Valle Gran Rey;2013;21
+Valle Gran Rey;2014;21
+Valle Gran Rey;2015;21
+Valle Gran Rey;2016;21
+Valle Gran Rey;2017;20
+Valle Gran Rey;2018;20
+Valle Gran Rey;2019;21
+Valle Gran Rey;2020;21
+Valle Gran Rey;2021;21
+Valle Gran Rey;2022;20
+Valle Gran Rey;2023;21
+Valle Gran Rey;2024;18
+Valle Gran Rey;2025;16
+Valle Guerra;2006;2
+Valle Guerra;2007;2
+Valle Guerra;2008;2
+Valle Guerra;2009;2
+Valle Guerra;2010;2
+Valle Guerra;2011;2
+Valle Guerra;2012;2
+Valle Guerra;2013;2
+Valle Guerra;2014;2
+Valle Guerra;2015;1
+Valle Guerra;2016;1
+Valle Guerra;2017;1
+Valle Guerra;2018;1
+Valle Guerra;2019;1
+Valle Guerra;2020;1
+Valle Guerra;2021;1
+Valle Guerra;2022;1
+Valle Guerra;2023;1
+Valle Guerra;2024;1
+Velez-Malaga;2006;107
+Velez-Malaga;2007;104
+Velez-Malaga;2008;85
+Velez-Malaga;2009;86
+Velez-Malaga;2010;90
+Velez-Malaga;2011;92
+Velez-Malaga;2012;88
+Velez-Malaga;2013;88
+Velez-Malaga;2014;80
+Velez-Malaga;2015;77
+Velez-Malaga;2016;78
+Velez-Malaga;2017;79
+Velez-Malaga;2018;79
+Velez-Malaga;2019;80
+Velez-Malaga;2020;77
+Velez-Malaga;2021;78
+Velez-Malaga;2022;84
+Velez-Malaga;2023;87
+Velez-Malaga;2024;86
+Velez-Malaga;2025;85
+Viavelez;2006;13
+Viavelez;2007;12
+Viavelez;2008;10
+Viavelez;2009;10
+Viavelez;2010;9
+Viavelez;2011;9
+Viavelez;2012;9
+Viavelez;2013;8
+Viavelez;2014;8
+Viavelez;2015;8
+Viavelez;2016;8
+Viavelez;2017;8
+Viavelez;2018;8
+Viavelez;2019;8
+Viavelez;2020;8
+Viavelez;2021;8
+Viavelez;2022;7
+Viavelez;2023;7
+Viavelez;2024;7
+Viavelez;2025;6
+Vicedo;2006;5
+Vicedo;2007;5
+Vicedo;2008;7
+Vicedo;2009;7
+Vicedo;2010;8
+Vicedo;2011;8
+Vicedo;2012;8
+Vicedo;2013;8
+Vicedo;2014;8
+Vicedo;2015;8
+Vicedo;2016;8
+Vicedo;2017;8
+Vicedo;2018;8
+Vicedo;2019;8
+Vicedo;2020;8
+Vicedo;2021;7
+Vicedo;2022;7
+Vicedo;2023;7
+Vicedo;2024;8
+Vicedo;2025;7
+Vigo;2006;192
+Vigo;2007;185
+Vigo;2008;176
+Vigo;2009;171
+Vigo;2010;157
+Vigo;2011;155
+Vigo;2012;150
+Vigo;2013;142
+Vigo;2014;129
+Vigo;2015;123
+Vigo;2016;121
+Vigo;2017;114
+Vigo;2018;119
+Vigo;2019;121
+Vigo;2020;122
+Vigo;2021;120
+Vigo;2022;116
+Vigo;2023;112
+Vigo;2024;109
+Vigo;2025;114
+Vilanova y la Geltrú;2006;85
+Vilanova y la Geltrú;2007;82
+Vilanova y la Geltrú;2008;79
+Vilanova y la Geltrú;2009;78
+Vilanova y la Geltrú;2010;76
+Vilanova y la Geltrú;2011;75
+Vilanova y la Geltrú;2012;72
+Vilanova y la Geltrú;2013;73
+Vilanova y la Geltrú;2014;72
+Vilanova y la Geltrú;2015;68
+Vilanova y la Geltrú;2016;65
+Vilanova y la Geltrú;2017;64
+Vilanova y la Geltrú;2018;61
+Vilanova y la Geltrú;2019;59
+Vilanova y la Geltrú;2020;61
+Vilanova y la Geltrú;2021;61
+Vilanova y la Geltrú;2022;59
+Vilanova y la Geltrú;2023;56
+Vilanova y la Geltrú;2024;53
+Vilanova y la Geltrú;2025;52
+Villagarcia de Arosa;2006;3
+Villagarcia de Arosa;2007;2
+Villagarcia de Arosa;2008;1
+Villagarcia de Arosa;2009;1
+Villagarcia de Arosa;2010;1
+Villagarcia de Arosa;2011;1
+Villagarcia de Arosa;2012;1
+Villagarcia de Arosa;2013;1
+Villagarcia de Arosa;2014;1
+Villagarcia de Arosa;2015;1
+Villagarcia de Arosa;2016;1
+Villagarcia de Arosa;2017;1
+Villagarcia de Arosa;2018;1
+Villagarcia de Arosa;2019;1
+Villagarcia de Arosa;2020;3
+Villagarcia de Arosa;2021;2
+Villagarcia de Arosa;2022;1
+Villagarcia de Arosa;2023;1
+Villagarcia de Arosa;2024;1
+Villagarcia de Arosa;2025;1
+Villajoyosa;2006;48
+Villajoyosa;2007;47
+Villajoyosa;2008;43
+Villajoyosa;2009;40
+Villajoyosa;2010;40
+Villajoyosa;2011;39
+Villajoyosa;2012;39
+Villajoyosa;2013;39
+Villajoyosa;2014;40
+Villajoyosa;2015;40
+Villajoyosa;2016;40
+Villajoyosa;2017;40
+Villajoyosa;2018;41
+Villajoyosa;2019;44
+Villajoyosa;2020;46
+Villajoyosa;2021;47
+Villajoyosa;2022;46
+Villajoyosa;2023;44
+Villajoyosa;2024;41
+Villajoyosa;2025;39
+Villajuan;2006;46
+Villajuan;2007;46
+Villajuan;2008;28
+Villajuan;2009;26
+Villajuan;2010;26
+Villajuan;2011;25
+Villajuan;2012;25
+Villajuan;2013;24
+Villajuan;2014;24
+Villajuan;2015;23
+Villajuan;2016;23
+Villajuan;2017;24
+Villajuan;2018;24
+Villajuan;2019;24
+Villajuan;2020;22
+Villajuan;2021;23
+Villajuan;2022;25
+Villajuan;2023;27
+Villajuan;2024;27
+Villajuan;2025;27
+Villanueva;2006;194
+Villanueva;2007;186
+Villanueva;2008;119
+Villanueva;2009;116
+Villanueva;2010;111
+Villanueva;2011;110
+Villanueva;2012;106
+Villanueva;2013;106
+Villanueva;2014;103
+Villanueva;2015;99
+Villanueva;2016;100
+Villanueva;2017;92
+Villanueva;2018;90
+Villanueva;2019;89
+Villanueva;2020;92
+Villanueva;2021;90
+Villanueva;2022;90
+Villanueva;2023;89
+Villanueva;2024;88
+Villanueva;2025;87
+Vinaroz;2006;43
+Vinaroz;2007;42
+Vinaroz;2008;37
+Vinaroz;2009;38
+Vinaroz;2010;35
+Vinaroz;2011;34
+Vinaroz;2012;36
+Vinaroz;2013;34
+Vinaroz;2014;33
+Vinaroz;2015;33
+Vinaroz;2016;34
+Vinaroz;2017;32
+Vinaroz;2018;33
+Vinaroz;2019;30
+Vinaroz;2020;32
+Vinaroz;2021;31
+Vinaroz;2022;29
+Vinaroz;2023;28
+Vinaroz;2024;25
+Vinaroz;2025;22
+Vivero;2006;7
+Vivero;2007;7
+Vivero;2008;7
+Vivero;2009;7
+Vivero;2010;7
+Vivero;2011;7
+Vivero;2012;7
+Vivero;2013;7
+Vivero;2014;6
+Vivero;2015;6
+Vivero;2016;6
+Águilas;2006;66
+Águilas;2007;57
+Águilas;2008;53
+Águilas;2009;47
+Águilas;2010;46
+Águilas;2011;48
+Águilas;2012;49
+Águilas;2013;45
+Águilas;2014;40
+Águilas;2015;41
+Águilas;2016;35
+Águilas;2017;34
+Águilas;2018;35
+Águilas;2019;35
+Águilas;2020;35
+Águilas;2021;33
+Águilas;2022;31
+Águilas;2023;30
+Águilas;2024;31
+Águilas;2025;33

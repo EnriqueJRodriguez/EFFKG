@@ -1,0 +1,53 @@
+﻿Property;Label;NumberOfStatements
+P25;has fishing gear category;371013
+P23;main engine power;213317
+P35;instance of;190592
+P12;CFR;188177
+P51;has vessel category;187575
+P55;country of registration;185685
+P9;external marking;185617
+P59;segment;184804
+P10;registration number;183401
+P29;entry into service date;183396
+P37;name;182619
+P16;LOA;181359
+P27;hull material;175595
+P30;date of construction;160307
+P20;GT Tonnage;153629
+P21;other tonnage;126242
+P11;registration place;124760
+P28;on board equipment;115614
+P17;LBP;77697
+P58;date of retirement;71896
+P57;date of destruction;42551
+P26;code;32992
+P32;status on national registry;30730
+P49;IMO;30529
+P31;registration on national registry;30527
+P56;administration responsible of registration;30527
+P41;operates at;23829
+P15;MMSI;20309
+P24;auxiliar engine power;9499
+P45;number of vessels;5177
+P14;UVI;3868
+P42;coordinates;1927
+P3;belongs to administrative unit;430
+P22;safety tonnage GTs;338
+P7;has ports;295
+P60;administrated by;155
+P43;contains administrative unit;136
+P53;abbreviation;126
+P18;has parent category;107
+P36;division of;92
+P39;has divisions;92
+P5;plate name;31
+P6;flag;29
+P38;subarea of;21
+P40;has subareas;19
+P52;subclass of;13
+P50;category of;4
+P1;defined by;3
+P54;superseded by;3
+P19;Wikidata reference;2
+
+TOTAL;;3707656

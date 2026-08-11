@@ -1,61 +1,61 @@
-Property Label EN;Datatype;Property Description;Property Description ES;Property Label ES
-CFR;string;;;
-GT Tonnage;quantity;Gross Tonagge;;Arqueo GT
-ID;string;Unique identifier;Identificador Ãºnico;ID
-IMO;string;International Maritime Organization Number;N�mero OMI;OMI
-IRCS;string;;;
-LBP;quantity;Length Between Perpendiculars;;Eslora entre perpendiculares
-LOA;quantity;Length Overall (m);Eslota total (m);Eslora total
-MMSI;string;Maritime Mobile Service Identity;Identidad del Servicio MÃ³vil MarÃ­timo;MMSI
-UVI;string;Unique Vessel Identifier;Identificador Ãnico del Buque;UVI
-Wikidata reference;external-id;;;Referencia wikidata
-abbreviation;string;;;abreviaciÃ³n
-administrated by;string;;;administrado por
-administration responsible of registration;string;;;administraciÃ³n responsable del registro
-auxiliar engine power;quantity;;;potencia motor auxiliar
-belongs to administrative unit;wikibase-item;;;pertenece a unidad administrativa
-category of;wikibase-item;Denotes categorization;Indica categorizaciÃ³n;categorÃ­a de
-code;string;;;cÃ³digo
-contains administrative unit;wikibase-item;;;contiene unidad administrativa
-coordinates;globe-coordinate;;;coordenadas
-country of registration;string;;;paÃ­s de registro
-date;time;;;fecha
-date of construction;time;;;fecha de construcciÃ³n
-date of destruction;time;;;fecha de destrucciÃ³n
-date of retirement;time;;;fecha de retiro
-defined by;string;;;definido por
-division of;wikibase-item;;;divisiÃ³n de
-end date;time;;;fecha de final
-entry into service date;time;;;fecha de entrada en servicio
-external marking;string;;;matricula
-flag;commonsMedia;;;bandera
-has delimitation;geoshape;;;tiene delimitaciÃ³n
-has demarcation;geoshape;;;tiene demarcaciÃ³n
-has divisions;wikibase-item;;;tiene divisiones
-has fishing gear category;wikibase-item;;;Tiene categorÃ­a de arte de pesca
-has parent category;wikibase-item;;;tiene categorÃ­a padre
-has ports;wikibase-item;;;tiene puertos
-has subareas;wikibase-item;;;tiene subzonas
-has vessel category;wikibase-item;;;tiene categorÃ­a de embarcaciÃ³n
-hull material;wikibase-item;;;material del casco
-image;url;;;imagen
-instance of;wikibase-item;;;instancia de
-main engine power;quantity;;;potencia del motor principal
-name;string;;;nombre
-number of vessels;quantity;;;nÃºmero de embarcaciones
-on board equipment;wikibase-item;;;equipamiento a bordo
-operates at;wikibase-item;vessel works at;embarcaciÃ³n opera en;opera en
-other tonnage;quantity;;;otro tonelaje
-plate name;string;;;nombre de matrÃ­cula
-registration number;string;;;registro
-registration on national registry;time;Registration on national registry (e.g. Registro General de la Flota Pesquera);Alta en registro nacional (p.e. Registro General de la Flota Pesquera);alta en registro nacional
-registration place;wikibase-item;;;lugar de registro
-safety tonnage GTs;quantity;;;tonelaje de seguridad GT
-segment;string;;;segmento
-since;time;;;desde
-source;url;;;fuente
-start date;time;;;fecha de inicio
-status on national registry;string;;;estado en registro nacional
-subarea of;wikibase-item;;;subarea de
-subclass of;wikibase-item;;;subclase de
-superseded by;wikibase-item;;;sustituido por
+Property Label EN,Datatype,Property Description,Property Description ES,Property Label ES
+defined by,String,Legal or normative instrument defining the entity,Instrumento jurídico o normativo que define la entidad,definido por
+ID,String,Unique identifier assigned to the entity.,Identificador único asignado a la entidad.,ID
+belongs to administrative unit,WikibaseItem,Administrative unit to which the entity belongs.,Unidad administrativa a la que pertenece la entidad.,pertenece a unidad administrativa
+has delimitation,GeoShape,Spatial delimitation associated with the entity.,Delimitación espacial asociada a la entidad.,tiene delimitación
+plate name,String,Official plate or registration plate designation.,Denominación oficial de la matrícula.,nombre de matrícula
+flag,CommonsMedia,Flag associated with the maritime administrative unit,Bandera asociada a la unidad administrativa marítima,bandera
+has ports,WikibaseItem,Ports belonging to or administered by the entity.,Puertos que pertenecen a la entidad o que son gestionados por ella.,tiene puertos
+has demarcation,GeoShape,Maritime demarcation associated with the entity.,Demarcación marítima asociada a la entidad.,tiene demarcación
+external marking,String,External identification marking displayed by the vessel.,Marcas de identificación externas que luce el buque.,matricula
+registration number,String,Official registration number assigned to the vessel,Número de registro oficial asignado a la embarcación,registro
+registration place,WikibaseItem,Port or place where the vessel is registered.,Puerto o lugar en el que está matriculado el buque.,lugar de registro
+CFR,String,Community Fleet Register identifier,Identificador del Registro de la Flota Comunitaria,CFR
+IRCS,String,International Radio Call Sign assigned to the vessel.,Distintivo de llamada internacional asignado a la embarcación.,IRCS
+UVI,String,Unique Vessel Identifier,Identificador Único del Buque,UVI
+MMSI,String,Maritime Mobile Service Identity,Identidad del Servicio Móvil Marítimo,MMSI
+LOA,Quantity,"Length overall of the vessel, expressed in metres","Eslota del buque, expresada en metros",Eslora total
+LBP,Quantity,"Length Between Perpendiculars, expressed in metres","Eslora entre perpendiculares, expresada en metros",Eslora entre perpendiculares
+has parent category,WikibaseItem,Parent category in a controlled classification,Categoría principal en una clasificación controlada,tiene categoría padre
+Wikidata reference,ExternalId,Equivalent entity in Wikidata,Entidad equivalente en Wikidata,Referencia wikidata
+GT Tonnage,Quantity,Gross Tonagge of the vessel,Arqueo bruto del buque,Arqueo GT
+other tonnage,Quantity,Additional tonnage measurement associated with the vessel,Medición adicional del arqueo relacionada con el buque,otro tonelaje
+safety tonnage GTs,Quantity,Gross tonnage used for safety certification.,Arqueo bruto utilizado para la certificación de seguridad.,tonelaje de seguridad GT
+main engine power,Quantity,Rated power of the main propulsion engine.,Potencia nominal del motor de propulsión principal.,potencia del motor principal
+auxiliar engine power,Quantity,Rated power of auxiliary engines.,Potencia nominal de los motores auxiliares.,potencia motor auxiliar
+has fishing gear category,WikibaseItem,Fishing gear category associated with the vessel.,Categoría de artes de pesca asociada al buque.,Tiene categoría de arte de pesca
+code,String,Official code assigned to the entity.,Código oficial asignado a la entidad.,código
+hull material,WikibaseItem,Material from which the vessel hull is constructed.,Material con el que está fabricado el casco del buque.,material del casco
+on board equipment,WikibaseItem,Equipment installed or carried on board the vessel.,Equipos instalados o transportados a bordo del buque.,equipamiento a bordo
+entry into service date,Time,Date on which the vessel entered service.,Fecha en la que el buque entró en servicio.,fecha de entrada en servicio
+date of construction,Time,Date on which the vessel was constructed.,Fecha de construcción del buque.,fecha de construcción
+registration on national registry,Time,Date of registration in national registry. (e.g. Registro General de la Flota Pesquera),Alta en registro nacional (p.e. Registro General de la Flota Pesquera),alta en registro nacional
+status on national registry,String,Registration status of the vessel in the national registry.,Situación de la inscripción del buque en el registro nacional.,estado en registro nacional
+since,Time,Start date of validity for a statement or relationship.,Fecha de inicio de validez de una afirmación o una relación.,desde
+image,Url,Image depicting the entity.,Imagen que representa a la entidad.,imagen
+instance of,WikibaseItem,Class to which the entity belongs.,Clase a la que pertenece la entidad.,instancia de
+division of,WikibaseItem,Fishing area or administrative division of which the entity is part.,Zona pesquera o división administrativa a la que pertenece la entidad.,división de
+name,String,Official name of the entity.,Nombre oficial de la entidad.,nombre
+subarea of,WikibaseItem,Parent fishing area of the entity.,Área de pesca principal de la entidad.,subarea de
+has divisions,WikibaseItem,Fishing divisions contained within the entity.,Divisiones pesqueras que forman parte de la entidad.,tiene divisiones
+has subareas,WikibaseItem,Fishing subareas contained within the entity.,Subzonas de pesca comprendidas en la entidad.,tiene subzonas
+operates at,WikibaseItem,Fishing area in which the vessel operates.,Zona de pesca en la que opera el buque.,opera en
+coordinates,GlobeCoordinate,Geographic coordinates of the entity.,Coordenadas geográficas de la entidad.,coordenadas
+contains administrative unit,WikibaseItem,Administrative units contained within the entity.,Unidades administrativas que forman parte de la entidad.,contiene unidad administrativa
+date,Time,Date associated with the statement or event.,Fecha relacionada con la afirmación o el suceso.,fecha
+number of vessels,Quantity,Number of vessels associated with the entity.,Número de buques vinculados a la entidad.,número de embarcaciones
+source,Url,Source supporting the statement.,Fuente que respalda la afirmación.,fuente
+start date,Time,Date on which the validity of a statement begins.,Fecha en la que comienza la validez de una afirmación.,fecha de inicio
+end date,Time,Date on which the validity of a statement ends,Fecha en la que finaliza la validez de una afirmación,fecha de final
+IMO,String,International Maritime Organization vessel identification number.,Número de identificación del buque de la Organización Marítima Internacional.,OMI
+category of,WikibaseItem,Denotes categorization,Indica categorización,categoría de
+has vessel category,WikibaseItem,Vessel category assigned to the vessel.,Categoría asignada a la embarcación.,tiene categoría de embarcación
+subclass of,WikibaseItem,Parent class in the  hierarchy.,Clase principal de la jerarquía.,subclase de
+abbreviation,String,Abbreviated form of the entity name.,Forma abreviada del nombre de la entidad.,abreviación
+superseded by,WikibaseItem,Entity replacing the current entity in the classification.,Entidad que sustituye a la entidad actual en la clasificación.,sustituido por
+country of registration,String,Country in which the vessel is registered.,País en el que está registrado el buque.,país de registro
+administration responsible of registration,String,Authority responsible for vessel registration.,Autoridad competente en materia de matriculación de buques.,administración responsable del registro
+date of destruction,Time,Date on which the vessel was destroyed.,Fecha en la que el buque fue destruido.,fecha de destrucción
+date of retirement,Time,Date on which the vessel was permanently withdrawn from service.,Fecha en la que el buque fue retirado definitivamente del servicio.,fecha de retiro
+segment,String,Fleet segment to which the vessel belongs.,Segmento de flota al que pertenece el buque.,segmento
+administrated by,String,Administrative authority responsible for the entity.,Autoridad administrativa responsable de la entidad.,administrado por

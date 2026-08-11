@@ -3,6 +3,7 @@ PREFIX wdt: <http://effkg.wikibase.cloud/prop/direct/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <Vessel> {
+    wdt:P35  [wd:Q23];
     # Properties derived from supranational level
     wdt:P11 @<FishingPort> *; # Registration place	
     wdt:P12 xsd:string; # CFR
@@ -53,5 +54,18 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 }
   
 <Material> {
-	wdt:P26 xsd:string; # Code
+    wdt:P35  [wd:Q482];
+    wdt:P26 xsd:string; # Code
+}
+
+<OnboardEquipment> EXTENDS @<VesselEquipment>{
+    wdt:P35  [wd:Q470];
+}
+
+<VesselEquipment> EXTENDS @<Equipment>{
+    wdt:P35  [wd:Q468];
+}
+
+<Equipment> {
+    wdt:P35  [wd:Q467];
 }

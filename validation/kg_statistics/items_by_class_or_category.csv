@@ -1,0 +1,19 @@
+﻿Class;ClassLabel;HierarchyRelation;Parent;ParentLabel;NumberOfDirectInstances
+Q24;Fishing Vessel;subclass of;Q23;Vessel;185025
+Q398;Vessel supporting fishing related activities;subclass of;Q23;Vessel;3145
+Q62;Fishing Port;subclass of;Q488;Port;1997
+Q13;Fishing Area;subclass of;Q28608;Maritime administrative unit;114
+Q138;Maritime District;subclass of;Q28608;Maritime administrative unit;108
+Q472;Fishing Gear Category;instance of;Q473;Category;71
+Q399;Fishing Vessel Category;instance of;Q471;Vessel Category;48
+Q63;Maritime Province;subclass of;Q28608;Maritime administrative unit;30
+Q448;Vessel supporting fishing related activities Category;instance of;Q471;Vessel Category;18
+Q28610;Spanish Autonomous Community;subclass of;Q379;Land administrative unit;17
+Q482;Material;;;;9
+Q470;On board Equipment;subclass of;Q468;Vessel Equipment;4
+Q471;Vessel Category;instance of;Q473;Category;2
+Q473;Category;;;;2
+Q144;Industrial Port;subclass of;Q488;Port;1
+
+UNIQUE CLASSES OR CATEGORIES;15;;;;
+TOTAL DIRECT INSTANCE RELATIONS;;;;;190591

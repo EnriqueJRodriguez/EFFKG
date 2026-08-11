@@ -1,0 +1,48 @@
+﻿property_id,property_label,source_count,sources
+P1,defined by,1,FAO Major Fishing Areas
+P3,belongs to administrative unit,1,BOE-A-2007-10951
+P5,plate name,1,BOE-A-2007-10951
+P6,flag,1,BOE-A-2007-10951
+P7,has ports,1,BOE-A-2007-10951
+P9,external marking,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P10,registration number,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P11,registration place,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P12,CFR,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P14,UVI,1,European Fleet Register
+P15,MMSI,1,European Fleet Register
+P16,LOA,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P17,LBP,1,European Fleet Register
+P18,has parent category,1,International Standard Statistical Classification of Fishing Gear
+P20,GT Tonnage,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P21,other tonnage,1,European Fleet Register
+P22,safety tonnage GTs,1,European Fleet Register
+P23,main engine power,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P24,auxiliar engine power,1,European Fleet Register
+P25,has fishing gear category,1,European Fleet Register
+P26,code,9,World Port Index | International Standard Statistical Classification of Fishery Vessels by Vessel Types | International Standard Statistical Classification of Fishing Gear | Spanish General Register of the Fishing Fleet | SIGNA | European Fleet Register | BOE-A-2007-10951 | Liste des ports du système ERS avec données de position | FAO Major Fishing Areas
+P27,hull material,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P28,on board equipment,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P29,entry into service date,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P30,date of construction,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P31,registration on national registry,1,Spanish General Register of the Fishing Fleet
+P32,status on national registry,1,Spanish General Register of the Fishing Fleet
+P35,instance of,8,World Port Index | International Standard Statistical Classification of Fishery Vessels by Vessel Types | International Standard Statistical Classification of Fishing Gear | Spanish General Register of the Fishing Fleet | European Fleet Register | BOE-A-2007-10951 | Liste des ports du système ERS avec données de position | FAO Major Fishing Areas
+P36,division of,1,FAO Major Fishing Areas
+P37,name,5,World Port Index | Spanish General Register of the Fishing Fleet | European Fleet Register | Liste des ports du système ERS avec données de position | FAO Major Fishing Areas
+P38,subarea of,1,FAO Major Fishing Areas
+P39,has divisions,1,FAO Major Fishing Areas
+P40,has subareas,1,FAO Major Fishing Areas
+P41,operates at,1,Spanish General Register of the Fishing Fleet
+P42,coordinates,2,World Port Index | Liste des ports du système ERS avec données de position
+P43,contains administrative unit,1,BOE-A-2007-10951
+P45,number of vessels,1,MAPA - Situación de la flota pesquera española
+P49,IMO,1,Spanish General Register of the Fishing Fleet
+P51,has vessel category,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P53,abbreviation,2,International Standard Statistical Classification of Fishery Vessels by Vessel Types | International Standard Statistical Classification of Fishing Gear
+P54,superseded by,1,International Standard Statistical Classification of Fishery Vessels by Vessel Types
+P55,country of registration,2,Spanish General Register of the Fishing Fleet | European Fleet Register
+P56,administration responsible of registration,1,Spanish General Register of the Fishing Fleet
+P57,date of destruction,1,European Fleet Register
+P58,date of retirement,1,European Fleet Register
+P59,segment,1,European Fleet Register
+P60,administrated by,1,SIGNA

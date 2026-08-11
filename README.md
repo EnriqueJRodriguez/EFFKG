@@ -1,6 +1,6 @@
-[![Version Status](https://img.shields.io/badge/version-1.0.0-green.svg)]([https://github.com/EnriqueJRodriguez/EFFKG])
+[![Version Status](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/EnriqueJRodriguez/EFFKG)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20286321.svg)](https://doi.org/10.5281/zenodo.20286321)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21885296.svg)](https://doi.org/10.5281/zenodo.21885296)
 
 # EFFKG
 
@@ -26,7 +26,7 @@ The dataset is additionally archived on [Zenodo]()
 
 ## Original Sources
 
-The primary data sources included in the current release are grouped as follows:
+The primary data sources and supporting resources used in the current release are grouped as follows:
 
 * **Source categories**
   * **International standards and global datasets**
@@ -35,13 +35,14 @@ The primary data sources included in the current release are grouped as follows:
     * FAO Major Fishing Areas
     * World Port Index (WPI), providing globally standardised port identifiers and geospatial information
   * **Supranational data sources**
-    * European Fleet Register, providing comprehensive coverage of the European fishing fleet, including technical and administrative vessel information
-    * Official Journal of the European Union, providing regulatory and classification references
-    * European port infrastructure dataset derived from aggregated national sources
+    * European Fleet Register, providing broad coverage of the European fishing fleet, including technical and administrative vessel information
+    * List of ERS System Ports maintained by the Centre National de Surveillance des Pêches (CNSP)
   * **National data sources**
     * Spanish General Register of the Fishing Fleet (*Registro General de la Flota Pesquera*, Spain)
-    * *Boletín Oficial del Estado* (BOE, Spain)
+    * *Situación de la Flota Pesquera Española*, published by the Spanish fisheries administration
     * Instituto Geográfico Nacional (IGN) — SIGNA platform (Spain)
+  * **Supporting normative resources**
+    * Official Journal of the European Union, used to interpret and validate vessel-property definitions reported in the European Fleet Register
 
 * **Document formats**: `.csv` and `.xlsx` files (e.g., vessels, ports, fishing areas), together with additional formats such as PDF and XML.
 * **Geographical scope**: Europe
@@ -69,9 +70,9 @@ The dataset and its data model is designed to support incremental extension thro
 
 ### Version Information
 
-* **Current version**: v1.0.0
+* **Current version**: v1.1.0
 * **Release date**: 15/05/2026
-* **Last update**: 15/05/2026
+* **Last update**: 11/08/2026
 
 ### Licensing
 
@@ -80,50 +81,58 @@ The dataset and its data model is designed to support incremental extension thro
 
 Users must comply with the corresponding licensing conditions when reusing either the data or the software components.
 
-### Statistics (v1.0.0)
+### Statistics (v1.1.0)
 
 * Number of vessel entities: 188,170
 * Number of port entities: 1,997
 * Number of administrative units: 269
 * Number of category entities: 73
-* Total number of entities: 190,628
+* Total number of entities: 190,629
 * Total number of statements: 3,707,656
 * Total number of provenance references: 4,033,845
-* Number of integrated data sources: 13
 
 ### Version History
 
-**v1.0.0 (current release)**  
+**v1.1.0 (current release)**  
+- Updated dataset release with accompanying code, documentation, validation, and reproducibility artefacts.
+
+**v1.0.0**  
 - Initial public release of the dataset.
 
 ## Reproducibility
 
-This repository provides all artefacts required to:
+This repository provides the data, code, documentation, and validation artefacts required to:
 
-* Inspect the JSON and RDF datasets generated from the integrated maritime sources.
-* Reproduce the CSV-to-Wikibase ingestion workflow.
-* Examine validation constraints (ShEx / EntitySchemas).
-* Re-execute SPARQL-based analyses.
+* Inspect the JSON and RDF representations of the released knowledge graph.
+* Reproduce the source-data preprocessing and tabular consolidation workflows.
+* Reproduce the CSV-to-Wikibase population workflow.
+* Inspect and re-execute the knowledge graph export and validation procedures.
+* Examine the Shape Expressions (ShEx), inferred schema, SPARQL validation queries, and knowledge graph statistics.
 
-The JSON and RDF datasets provided in this repository correspond to the data ingested into the public Wikibase instance (v1.0.0). Together, the live EFFKG deployment and this repository ensure full reproducibility of the knowledge graph population workflow.
+Software dependencies are fixed in `requirements.txt`. Input requirements and execution instructions for the processing workflows are documented under `code/documentation/`.
+
+The JSON and RDF datasets correspond to the EFFKG v1.1.0 knowledge graph snapshot. The public Wikibase instance may continue to evolve as data are updated and corrected, with subsequent states frozen as new versioned releases.
 
 ## Repository Structure
 
-* **code**: Contains Jupyter notebooks implementing the main components of the population pipeline. The notebooks can be grouped into the following categories:
-   * **Web scrapers**: Recover information from sources lacking APIs or structured access mechanisms.
-   * **Data consolidators**: Integrate heterogeneous source datasets into unified intermediate representations.
-   * **Wikibase utilities**: Support data import/export operations and statistical extraction from Wikibase instances.
-   * **Validation utilities**: Infer and validate the structural organisation of the knowledge graph.
-   
-* **dataset**: Contains JSON and RDF datasets (Turtle format) generated by applying the proposed integration pipeline to the original data sources.
+## Repository Structure
 
-* **schema**: Contains the Shape Expressions defining the entity structure of the dataset.
+* **code**: Contains the Python scripts and Jupyter notebooks implementing the main components of the EFFKG processing, population, export, and validation workflows.
+   * **documentation**: Contains workflow-specific input requirements and execution instructions.
 
-* **source_data**: Contains original and preprocessed source data prepared for data consolidation and knowledge graph population.
+* **dataset**: Contains the released Wikibase JSON exports and RDF serialisations (Turtle format) of the knowledge graph.
 
-* **data_model**: Contains the current data model and its sources and interactions.
+* **schema**: Contains the Shape Expressions (ShEx) defining the entity structure of the dataset.
 
-* **validation**: Contains the outputs from the validation process, including the inferred schema for the structural validation.
+* **source_data**: Contains the original source data and processed intermediate datasets generated by the preprocessing and consolidation workflows, organised into source-specific and processing-specific subdirectories.
+
+* **data_model**: Contains the current data model and documentation of its sources and interactions.
+
+* **documentation**: Contains machine-readable documentation for the released dataset, including entity-class and property dictionaries, property provenance mappings, and the source-resource catalogue.
+
+* **validation**: Contains validation and quality-assessment artefacts, including:
+   * **inferred_schema**: Structural schema inferred from the exported knowledge graph.
+   * **kg_statistics**: Knowledge graph statistics generated for the released snapshot.
 
 ## Intended Audience
 
