@@ -4,7 +4,7 @@
 
 # EFFKG
 
-This repository contains all supplementary materials — including datasets, source code, and validation artefacts — associated with the paper:
+This repository contains all supplementary materials — including datasets, documentation, source code, and validation artefacts — associated with the paper:
 
 **A dataset of the European fishing fleet and maritime
 infrastructure**
@@ -13,7 +13,7 @@ Submitted to [Scientific Data](https://www.nature.com/sdata/)
 
 The **European Fishing Fleet Knowledge Graph (EFFKG)** is a semantic dataset integrating heterogeneous maritime data originating from multiple institutional layers, including international standards, European registries, and national administrative sources, within a unified semantic framework. All integrated resources were obtained from publicly accessible repositories. The knowledge graph is also deployed as a public Wikibase instance at [effkg.wikibase.cloud](https://effkg.wikibase.cloud/wiki/Main_Page).
 
-The dataset is additionally archived on [Zenodo]()
+The dataset is additionally archived on [Zenodo](https://zenodo.org/records/21885296)
 
 ## Table of Contents
 
@@ -113,8 +113,6 @@ This repository provides the data, code, documentation, and validation artefacts
 Software dependencies are fixed in `requirements.txt`. Input requirements and execution instructions for the processing workflows are documented under `code/documentation/`.
 
 The JSON and RDF datasets correspond to the EFFKG v1.1.0 knowledge graph snapshot. The public Wikibase instance may continue to evolve as data are updated and corrected, with subsequent states frozen as new versioned releases.
-
-## Repository Structure
 
 ## Repository Structure
 
